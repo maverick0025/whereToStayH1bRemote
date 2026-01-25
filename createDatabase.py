@@ -68,7 +68,8 @@ def extractWageInfo(file_wages, expected_occupation_code):
                 if(db_wage.get(area_code) is None):
                     db_wage[area_code] = []
                 if(occupation_code.__contains__(expected_occupation_code)): # focusing on software development occupations
-                    db_wage[area_code].append({"socCode":occupation_code,
+                    db_wage[area_code].append({
+                                            # "socCode":occupation_code,
                                             # "wageLevel1":wage_level_1,
                                             # "wageLevel2":wage_level_2,
                                             # "wageLevel3":wage_level_3,
@@ -88,9 +89,9 @@ def extractWageInfo(file_wages, expected_occupation_code):
 def __main__():        
     file_geography= "OFLC_Wages_2025-26_Updated/Geography.csv"
     file_wages="OFLC_Wages_2025-26_Updated/ALC_Export.csv"
-            
-    extractGeographyInfo(file_geography)        
     software_dev_occupation_code= "15-1252"  # SOC code for Software Developers and Software Quality Assurance Analysts and Testers
+            
+    # extractGeographyInfo(file_geography)        
     extractWageInfo(file_wages, software_dev_occupation_code)
         
 
