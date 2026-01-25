@@ -1,0 +1,5302 @@
+{
+    "\"10180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66768.0",
+            "level2_salary": "86278.4",
+            "level3_salary": "105768.0",
+            "level4_salary": "125278.4",
+            "avg_salary": "105955.2"
+        }
+    ],
+    "\"10380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "47257.6",
+            "level2_salary": "62400.0",
+            "level3_salary": "77542.4",
+            "level4_salary": "92684.8",
+            "avg_salary": "77708.8"
+        }
+    ],
+    "\"10420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68473.6",
+            "level2_salary": "88025.6",
+            "level3_salary": "107577.6",
+            "level4_salary": "127129.6",
+            "avg_salary": "107785.6"
+        }
+    ],
+    "\"10500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76752.0",
+            "level2_salary": "93392.0",
+            "level3_salary": "110011.2",
+            "level4_salary": "126651.2",
+            "avg_salary": "110177.6"
+        }
+    ],
+    "\"10540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "86195.2",
+            "level2_salary": "106724.8",
+            "level3_salary": "127254.4",
+            "level4_salary": "147784.0",
+            "avg_salary": "127441.6"
+        }
+    ],
+    "\"10580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78000.0",
+            "level2_salary": "99548.8",
+            "level3_salary": "121076.8",
+            "level4_salary": "142625.6",
+            "avg_salary": "121305.6"
+        }
+    ],
+    "\"10740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76294.4",
+            "level2_salary": "98862.4",
+            "level3_salary": "121409.6",
+            "level4_salary": "143977.6",
+            "avg_salary": "121638.4"
+        }
+    ],
+    "\"10780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75878.4",
+            "level2_salary": "91748.8",
+            "level3_salary": "107619.2",
+            "level4_salary": "123489.6",
+            "avg_salary": "107764.8"
+        }
+    ],
+    "\"10900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73008.0",
+            "level2_salary": "95222.4",
+            "level3_salary": "117416.0",
+            "level4_salary": "139630.4",
+            "avg_salary": "117644.8"
+        }
+    ],
+    "\"11020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68744.0",
+            "level2_salary": "87256.0",
+            "level3_salary": "105788.8",
+            "level4_salary": "124300.8",
+            "avg_salary": "105976.0"
+        }
+    ],
+    "\"11100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64854.4",
+            "level2_salary": "88441.6",
+            "level3_salary": "112028.8",
+            "level4_salary": "135616.0",
+            "avg_salary": "112257.6"
+        }
+    ],
+    "\"11180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84011.2",
+            "level2_salary": "104166.4",
+            "level3_salary": "124300.8",
+            "level4_salary": "144456.0",
+            "avg_salary": "124508.8"
+        }
+    ],
+    "\"11200\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89876.8",
+            "level2_salary": "109179.2",
+            "level3_salary": "128481.6",
+            "level4_salary": "147784.0",
+            "avg_salary": "128668.8"
+        }
+    ],
+    "\"11260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90771.2",
+            "level2_salary": "109324.8",
+            "level3_salary": "127878.4",
+            "level4_salary": "146432.0",
+            "avg_salary": "128065.6"
+        }
+    ],
+    "\"11460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83179.2",
+            "level2_salary": "104083.2",
+            "level3_salary": "125008.0",
+            "level4_salary": "145912.0",
+            "avg_salary": "125216.0"
+        }
+    ],
+    "\"11500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "56118.4",
+            "level2_salary": "77001.6",
+            "level3_salary": "97905.6",
+            "level4_salary": "118788.8",
+            "avg_salary": "98113.6"
+        }
+    ],
+    "\"11540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68265.6",
+            "level2_salary": "86486.4",
+            "level3_salary": "104728.0",
+            "level4_salary": "122948.8",
+            "avg_salary": "104894.4"
+        }
+    ],
+    "\"11640\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "38147.2",
+            "level2_salary": "52728.0",
+            "level3_salary": "67329.6",
+            "level4_salary": "81910.4",
+            "avg_salary": "67454.4"
+        }
+    ],
+    "\"11700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66456.0",
+            "level2_salary": "91187.2",
+            "level3_salary": "115918.4",
+            "level4_salary": "140649.6",
+            "avg_salary": "116168.0"
+        }
+    ],
+    "\"12020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64563.2",
+            "level2_salary": "86340.8",
+            "level3_salary": "108118.4",
+            "level4_salary": "129896.0",
+            "avg_salary": "108347.2"
+        }
+    ],
+    "\"12060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87859.2",
+            "level2_salary": "109283.2",
+            "level3_salary": "130707.2",
+            "level4_salary": "152131.2",
+            "avg_salary": "130915.2"
+        }
+    ],
+    "\"12100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73528.0",
+            "level2_salary": "99944.0",
+            "level3_salary": "126380.8",
+            "level4_salary": "152796.8",
+            "avg_salary": "126630.4"
+        }
+    ],
+    "\"12220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61401.6",
+            "level2_salary": "84177.6",
+            "level3_salary": "106953.6",
+            "level4_salary": "129729.6",
+            "avg_salary": "107182.4"
+        }
+    ],
+    "\"12260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69888.0",
+            "level2_salary": "91249.6",
+            "level3_salary": "112590.4",
+            "level4_salary": "133952.0",
+            "avg_salary": "112819.2"
+        }
+    ],
+    "\"12420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90355.2",
+            "level2_salary": "114753.6",
+            "level3_salary": "139152.0",
+            "level4_salary": "163550.4",
+            "avg_salary": "139380.8"
+        }
+    ],
+    "\"12540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "94244.8",
+            "level2_salary": "120556.8",
+            "level3_salary": "146889.6",
+            "level4_salary": "173201.6",
+            "avg_salary": "147139.2"
+        }
+    ],
+    "\"12580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92955.2",
+            "level2_salary": "122012.8",
+            "level3_salary": "151091.2",
+            "level4_salary": "180148.8",
+            "avg_salary": "151361.6"
+        }
+    ],
+    "\"12620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78769.6",
+            "level2_salary": "95451.2",
+            "level3_salary": "112112.0",
+            "level4_salary": "128793.6",
+            "avg_salary": "112278.4"
+        }
+    ],
+    "\"12700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "96054.4",
+            "level2_salary": "117644.8",
+            "level3_salary": "139214.4",
+            "level4_salary": "160804.8",
+            "avg_salary": "139443.2"
+        }
+    ],
+    "\"12940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67766.4",
+            "level2_salary": "84905.6",
+            "level3_salary": "102065.6",
+            "level4_salary": "119204.8",
+            "avg_salary": "102232.0"
+        }
+    ],
+    "\"12980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73902.4",
+            "level2_salary": "94286.4",
+            "level3_salary": "114691.2",
+            "level4_salary": "135075.2",
+            "avg_salary": "114899.2"
+        }
+    ],
+    "\"13020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "63336.0",
+            "level2_salary": "83699.2",
+            "level3_salary": "104062.4",
+            "level4_salary": "124425.6",
+            "avg_salary": "104249.6"
+        }
+    ],
+    "\"13140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81432.0",
+            "level2_salary": "103022.4",
+            "level3_salary": "124612.8",
+            "level4_salary": "146203.2",
+            "avg_salary": "124820.8"
+        }
+    ],
+    "\"13220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72654.4",
+            "level2_salary": "89544.0",
+            "level3_salary": "106433.6",
+            "level4_salary": "123323.2",
+            "avg_salary": "106600.0"
+        }
+    ],
+    "\"13380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "94390.4",
+            "level2_salary": "117166.4",
+            "level3_salary": "139963.2",
+            "level4_salary": "162739.2",
+            "avg_salary": "140192.0"
+        }
+    ],
+    "\"13460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92352.0",
+            "level2_salary": "112236.8",
+            "level3_salary": "132100.8",
+            "level4_salary": "151985.6",
+            "avg_salary": "132308.8"
+        }
+    ],
+    "\"13740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66040.0",
+            "level2_salary": "87547.2",
+            "level3_salary": "109054.4",
+            "level4_salary": "130561.6",
+            "avg_salary": "109262.4"
+        }
+    ],
+    "\"13780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85716.8",
+            "level2_salary": "105289.6",
+            "level3_salary": "124883.2",
+            "level4_salary": "144456.0",
+            "avg_salary": "125070.4"
+        }
+    ],
+    "\"13820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72404.8",
+            "level2_salary": "93475.2",
+            "level3_salary": "114524.8",
+            "level4_salary": "135595.2",
+            "avg_salary": "114753.6"
+        }
+    ],
+    "\"13900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74609.6",
+            "level2_salary": "88816.0",
+            "level3_salary": "103022.4",
+            "level4_salary": "117228.8",
+            "avg_salary": "103168.0"
+        }
+    ],
+    "\"13980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70844.8",
+            "level2_salary": "88337.6",
+            "level3_salary": "105809.6",
+            "level4_salary": "123302.4",
+            "avg_salary": "105996.8"
+        }
+    ],
+    "\"14010\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90292.8",
+            "level2_salary": "105705.6",
+            "level3_salary": "121118.4",
+            "level4_salary": "136531.2",
+            "avg_salary": "121284.8"
+        }
+    ],
+    "\"14020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65956.8",
+            "level2_salary": "84531.2",
+            "level3_salary": "103084.8",
+            "level4_salary": "121659.2",
+            "avg_salary": "103272.0"
+        }
+    ],
+    "\"14260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72009.6",
+            "level2_salary": "100027.2",
+            "level3_salary": "128024.0",
+            "level4_salary": "156041.6",
+            "avg_salary": "128315.2"
+        }
+    ],
+    "\"14460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "107556.8",
+            "level2_salary": "131081.6",
+            "level3_salary": "154606.4",
+            "level4_salary": "178131.2",
+            "avg_salary": "154835.2"
+        }
+    ],
+    "\"14500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "106246.4",
+            "level2_salary": "146057.6",
+            "level3_salary": "185868.8",
+            "level4_salary": "225680.0",
+            "avg_salary": "186264.0"
+        }
+    ],
+    "\"14540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73257.6",
+            "level2_salary": "98113.6",
+            "level3_salary": "122948.8",
+            "level4_salary": "147804.8",
+            "avg_salary": "123198.4"
+        }
+    ],
+    "\"14580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75504.0",
+            "level2_salary": "98155.2",
+            "level3_salary": "120785.6",
+            "level4_salary": "143436.8",
+            "avg_salary": "121014.4"
+        }
+    ],
+    "\"14740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "96928.0",
+            "level2_salary": "121430.4",
+            "level3_salary": "145953.6",
+            "level4_salary": "170456.0",
+            "avg_salary": "146182.4"
+        }
+    ],
+    "\"14860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "100630.4",
+            "level2_salary": "131185.6",
+            "level3_salary": "161720.0",
+            "level4_salary": "192275.2",
+            "avg_salary": "162032.0"
+        }
+    ],
+    "\"15180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62670.4",
+            "level2_salary": "83532.8",
+            "level3_salary": "104374.4",
+            "level4_salary": "125236.8",
+            "avg_salary": "104603.2"
+        }
+    ],
+    "\"15260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79705.6",
+            "level2_salary": "105040.0",
+            "level3_salary": "130374.4",
+            "level4_salary": "155708.8",
+            "avg_salary": "130624.0"
+        }
+    ],
+    "\"15380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80142.4",
+            "level2_salary": "102460.8",
+            "level3_salary": "124800.0",
+            "level4_salary": "147118.4",
+            "avg_salary": "125028.8"
+        }
+    ],
+    "\"15500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76710.4",
+            "level2_salary": "96200.0",
+            "level3_salary": "115689.6",
+            "level4_salary": "135179.2",
+            "avg_salary": "115876.8"
+        }
+    ],
+    "\"15540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83116.8",
+            "level2_salary": "107993.6",
+            "level3_salary": "132870.4",
+            "level4_salary": "157747.2",
+            "avg_salary": "133120.0"
+        }
+    ],
+    "\"15940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70657.6",
+            "level2_salary": "90022.4",
+            "level3_salary": "109387.2",
+            "level4_salary": "128752.0",
+            "avg_salary": "109574.4"
+        }
+    ],
+    "\"15980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74630.4",
+            "level2_salary": "99777.6",
+            "level3_salary": "124924.8",
+            "level4_salary": "150072.0",
+            "avg_salary": "125174.4"
+        }
+    ],
+    "\"16020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61360.0",
+            "level2_salary": "77126.4",
+            "level3_salary": "92913.6",
+            "level4_salary": "108680.0",
+            "avg_salary": "93059.2"
+        }
+    ],
+    "\"16180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84156.8",
+            "level2_salary": "109782.4",
+            "level3_salary": "135408.0",
+            "level4_salary": "161033.6",
+            "avg_salary": "135657.6"
+        }
+    ],
+    "\"16220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "63398.4",
+            "level2_salary": "85051.2",
+            "level3_salary": "106724.8",
+            "level4_salary": "128377.6",
+            "avg_salary": "106932.8"
+        }
+    ],
+    "\"16300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81577.6",
+            "level2_salary": "98883.2",
+            "level3_salary": "116188.8",
+            "level4_salary": "133494.4",
+            "avg_salary": "116355.2"
+        }
+    ],
+    "\"16540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74464.0",
+            "level2_salary": "94660.8",
+            "level3_salary": "114836.8",
+            "level4_salary": "135033.6",
+            "avg_salary": "115044.8"
+        }
+    ],
+    "\"16580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71614.4",
+            "level2_salary": "90147.2",
+            "level3_salary": "108700.8",
+            "level4_salary": "127233.6",
+            "avg_salary": "108867.2"
+        }
+    ],
+    "\"16620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73070.4",
+            "level2_salary": "90043.2",
+            "level3_salary": "107036.8",
+            "level4_salary": "124009.6",
+            "avg_salary": "107203.2"
+        }
+    ],
+    "\"16700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79393.6",
+            "level2_salary": "102627.2",
+            "level3_salary": "125840.0",
+            "level4_salary": "149073.6",
+            "avg_salary": "126068.8"
+        }
+    ],
+    "\"16740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91291.2",
+            "level2_salary": "112424.0",
+            "level3_salary": "133536.0",
+            "level4_salary": "154668.8",
+            "avg_salary": "133744.0"
+        }
+    ],
+    "\"16820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "86216.0",
+            "level2_salary": "107848.0",
+            "level3_salary": "129459.2",
+            "level4_salary": "151091.2",
+            "avg_salary": "129688.0"
+        }
+    ],
+    "\"16860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69638.4",
+            "level2_salary": "90064.0",
+            "level3_salary": "110510.4",
+            "level4_salary": "130936.0",
+            "avg_salary": "110718.4"
+        }
+    ],
+    "\"16940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75275.2",
+            "level2_salary": "99403.2",
+            "level3_salary": "123552.0",
+            "level4_salary": "147680.0",
+            "avg_salary": "123780.8"
+        }
+    ],
+    "\"16980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85467.2",
+            "level2_salary": "108076.8",
+            "level3_salary": "130707.2",
+            "level4_salary": "153316.8",
+            "avg_salary": "130936.0"
+        }
+    ],
+    "\"17020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81536.0",
+            "level2_salary": "105206.4",
+            "level3_salary": "128856.0",
+            "level4_salary": "152526.4",
+            "avg_salary": "129105.6"
+        }
+    ],
+    "\"17140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81307.2",
+            "level2_salary": "100547.2",
+            "level3_salary": "119787.2",
+            "level4_salary": "139027.2",
+            "avg_salary": "119974.4"
+        }
+    ],
+    "\"17300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67891.2",
+            "level2_salary": "86632.0",
+            "level3_salary": "105393.6",
+            "level4_salary": "124134.4",
+            "avg_salary": "105560.0"
+        }
+    ],
+    "\"17410\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72883.2",
+            "level2_salary": "92206.4",
+            "level3_salary": "111508.8",
+            "level4_salary": "130832.0",
+            "avg_salary": "111716.8"
+        }
+    ],
+    "\"17420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70761.6",
+            "level2_salary": "89336.0",
+            "level3_salary": "107931.2",
+            "level4_salary": "126505.6",
+            "avg_salary": "108118.4"
+        }
+    ],
+    "\"17660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69825.6",
+            "level2_salary": "98550.4",
+            "level3_salary": "127296.0",
+            "level4_salary": "156020.8",
+            "avg_salary": "127566.4"
+        }
+    ],
+    "\"17780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71177.6",
+            "level2_salary": "90001.6",
+            "level3_salary": "108825.6",
+            "level4_salary": "127649.6",
+            "avg_salary": "109012.8"
+        }
+    ],
+    "\"17820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "93974.4",
+            "level2_salary": "114046.4",
+            "level3_salary": "134097.6",
+            "level4_salary": "154169.6",
+            "avg_salary": "134305.6"
+        }
+    ],
+    "\"17860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71260.8",
+            "level2_salary": "87630.4",
+            "level3_salary": "103979.2",
+            "level4_salary": "120348.8",
+            "avg_salary": "104145.6"
+        }
+    ],
+    "\"17900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68036.8",
+            "level2_salary": "88940.8",
+            "level3_salary": "109865.6",
+            "level4_salary": "130769.6",
+            "avg_salary": "110073.6"
+        }
+    ],
+    "\"17980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81224.0",
+            "level2_salary": "97489.6",
+            "level3_salary": "113755.2",
+            "level4_salary": "130020.8",
+            "avg_salary": "113921.6"
+        }
+    ],
+    "\"18020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72841.6",
+            "level2_salary": "86132.8",
+            "level3_salary": "99444.8",
+            "level4_salary": "112736.0",
+            "avg_salary": "99569.6"
+        }
+    ],
+    "\"18140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "82846.4",
+            "level2_salary": "101899.2",
+            "level3_salary": "120972.8",
+            "level4_salary": "140025.6",
+            "avg_salary": "121160.0"
+        }
+    ],
+    "\"18580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "82929.6",
+            "level2_salary": "104124.8",
+            "level3_salary": "125340.8",
+            "level4_salary": "146536.0",
+            "avg_salary": "125548.8"
+        }
+    ],
+    "\"18700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80059.2",
+            "level2_salary": "99819.2",
+            "level3_salary": "119600.0",
+            "level4_salary": "139360.0",
+            "avg_salary": "119787.2"
+        }
+    ],
+    "\"18880\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "82763.2",
+            "level2_salary": "104707.2",
+            "level3_salary": "126672.0",
+            "level4_salary": "148616.0",
+            "avg_salary": "126880.0"
+        }
+    ],
+    "\"19100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90896.0",
+            "level2_salary": "112923.2",
+            "level3_salary": "134971.2",
+            "level4_salary": "156998.4",
+            "avg_salary": "135179.2"
+        }
+    ],
+    "\"19140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "59176.0",
+            "level2_salary": "81078.4",
+            "level3_salary": "102960.0",
+            "level4_salary": "124862.4",
+            "avg_salary": "103188.8"
+        }
+    ],
+    "\"19300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61713.6",
+            "level2_salary": "88129.6",
+            "level3_salary": "114566.4",
+            "level4_salary": "140982.4",
+            "avg_salary": "114816.0"
+        }
+    ],
+    "\"19340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83012.8",
+            "level2_salary": "98404.8",
+            "level3_salary": "113817.6",
+            "level4_salary": "129209.6",
+            "avg_salary": "113963.2"
+        }
+    ],
+    "\"19430\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75899.2",
+            "level2_salary": "94764.8",
+            "level3_salary": "113630.4",
+            "level4_salary": "132496.0",
+            "avg_salary": "113817.6"
+        }
+    ],
+    "\"19460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66414.4",
+            "level2_salary": "88275.2",
+            "level3_salary": "110136.0",
+            "level4_salary": "131996.8",
+            "avg_salary": "110344.0"
+        }
+    ],
+    "\"19500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71240.0",
+            "level2_salary": "93017.6",
+            "level3_salary": "114816.0",
+            "level4_salary": "136593.6",
+            "avg_salary": "115024.0"
+        }
+    ],
+    "\"19660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78062.4",
+            "level2_salary": "100464.0",
+            "level3_salary": "122844.8",
+            "level4_salary": "145246.4",
+            "avg_salary": "123073.6"
+        }
+    ],
+    "\"19740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "98737.6",
+            "level2_salary": "120536.0",
+            "level3_salary": "142313.6",
+            "level4_salary": "164112.0",
+            "avg_salary": "142542.4"
+        }
+    ],
+    "\"19780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81993.6",
+            "level2_salary": "100838.4",
+            "level3_salary": "119662.4",
+            "level4_salary": "138507.2",
+            "avg_salary": "119849.6"
+        }
+    ],
+    "\"19820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84052.8",
+            "level2_salary": "102190.4",
+            "level3_salary": "120348.8",
+            "level4_salary": "138486.4",
+            "avg_salary": "120515.2"
+        }
+    ],
+    "\"20020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66019.2",
+            "level2_salary": "88628.8",
+            "level3_salary": "111238.4",
+            "level4_salary": "133848.0",
+            "avg_salary": "111467.2"
+        }
+    ],
+    "\"20100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89044.8",
+            "level2_salary": "106974.4",
+            "level3_salary": "124924.8",
+            "level4_salary": "142854.4",
+            "avg_salary": "125091.2"
+        }
+    ],
+    "\"20220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77875.2",
+            "level2_salary": "93828.8",
+            "level3_salary": "109761.6",
+            "level4_salary": "125715.2",
+            "avg_salary": "109928.0"
+        }
+    ],
+    "\"20260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71905.6",
+            "level2_salary": "89086.4",
+            "level3_salary": "106246.4",
+            "level4_salary": "123427.2",
+            "avg_salary": "106433.6"
+        }
+    ],
+    "\"20500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "94182.4",
+            "level2_salary": "116708.8",
+            "level3_salary": "139214.4",
+            "level4_salary": "161740.8",
+            "avg_salary": "139464.0"
+        }
+    ],
+    "\"20580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71489.6",
+            "level2_salary": "91603.2",
+            "level3_salary": "111696.0",
+            "level4_salary": "131809.6",
+            "avg_salary": "111904.0"
+        }
+    ],
+    "\"20740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76003.2",
+            "level2_salary": "94452.8",
+            "level3_salary": "112902.4",
+            "level4_salary": "131352.0",
+            "avg_salary": "113089.6"
+        }
+    ],
+    "\"20940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "100692.8",
+            "level2_salary": "127670.4",
+            "level3_salary": "154648.0",
+            "level4_salary": "181625.6",
+            "avg_salary": "154918.4"
+        }
+    ],
+    "\"21060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67246.4",
+            "level2_salary": "84614.4",
+            "level3_salary": "101982.4",
+            "level4_salary": "119350.4",
+            "avg_salary": "102148.8"
+        }
+    ],
+    "\"21140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68224.0",
+            "level2_salary": "85009.6",
+            "level3_salary": "101774.4",
+            "level4_salary": "118560.0",
+            "avg_salary": "101940.8"
+        }
+    ],
+    "\"21300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73860.8",
+            "level2_salary": "91998.4",
+            "level3_salary": "110115.2",
+            "level4_salary": "128252.8",
+            "avg_salary": "110302.4"
+        }
+    ],
+    "\"21340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77001.6",
+            "level2_salary": "96969.6",
+            "level3_salary": "116958.4",
+            "level4_salary": "136926.4",
+            "avg_salary": "117166.4"
+        }
+    ],
+    "\"21420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65894.4",
+            "level2_salary": "83262.4",
+            "level3_salary": "100630.4",
+            "level4_salary": "117998.4",
+            "avg_salary": "100796.8"
+        }
+    ],
+    "\"21500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68889.6",
+            "level2_salary": "84905.6",
+            "level3_salary": "100900.8",
+            "level4_salary": "116916.8",
+            "avg_salary": "101067.2"
+        }
+    ],
+    "\"21660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84281.6",
+            "level2_salary": "103937.6",
+            "level3_salary": "123572.8",
+            "level4_salary": "143228.8",
+            "avg_salary": "123760.0"
+        }
+    ],
+    "\"21780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65936.0",
+            "level2_salary": "82555.2",
+            "level3_salary": "99174.4",
+            "level4_salary": "115793.6",
+            "avg_salary": "99340.8"
+        }
+    ],
+    "\"21820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92185.6",
+            "level2_salary": "103750.4",
+            "level3_salary": "115315.2",
+            "level4_salary": "126880.0",
+            "avg_salary": "115440.0"
+        }
+    ],
+    "\"22020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70969.6",
+            "level2_salary": "88836.8",
+            "level3_salary": "106683.2",
+            "level4_salary": "124550.4",
+            "avg_salary": "106870.4"
+        }
+    ],
+    "\"22140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69555.2",
+            "level2_salary": "90480.0",
+            "level3_salary": "111384.0",
+            "level4_salary": "132308.8",
+            "avg_salary": "111592.0"
+        }
+    ],
+    "\"22180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81369.6",
+            "level2_salary": "100464.0",
+            "level3_salary": "119579.2",
+            "level4_salary": "138673.6",
+            "avg_salary": "119766.4"
+        }
+    ],
+    "\"22220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64376.0",
+            "level2_salary": "83324.8",
+            "level3_salary": "102273.6",
+            "level4_salary": "121222.4",
+            "avg_salary": "102460.8"
+        }
+    ],
+    "\"22380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72841.6",
+            "level2_salary": "96720.0",
+            "level3_salary": "120598.4",
+            "level4_salary": "144476.8",
+            "avg_salary": "120848.0"
+        }
+    ],
+    "\"22420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70990.4",
+            "level2_salary": "88545.6",
+            "level3_salary": "106080.0",
+            "level4_salary": "123635.2",
+            "avg_salary": "106267.2"
+        }
+    ],
+    "\"22500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70012.8",
+            "level2_salary": "88816.0",
+            "level3_salary": "107619.2",
+            "level4_salary": "126422.4",
+            "avg_salary": "107806.4"
+        }
+    ],
+    "\"22520\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "56014.4",
+            "level2_salary": "79019.2",
+            "level3_salary": "102044.8",
+            "level4_salary": "125049.6",
+            "avg_salary": "102273.6"
+        }
+    ],
+    "\"22540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76876.8",
+            "level2_salary": "91956.8",
+            "level3_salary": "107057.6",
+            "level4_salary": "122137.6",
+            "avg_salary": "107203.2"
+        }
+    ],
+    "\"22660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "86091.2",
+            "level2_salary": "110489.6",
+            "level3_salary": "134867.2",
+            "level4_salary": "159265.6",
+            "avg_salary": "135116.8"
+        }
+    ],
+    "\"22900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "54745.6",
+            "level2_salary": "72987.2",
+            "level3_salary": "91228.8",
+            "level4_salary": "109470.4",
+            "avg_salary": "91416.0"
+        }
+    ],
+    "\"23060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67683.2",
+            "level2_salary": "86840.0",
+            "level3_salary": "105976.0",
+            "level4_salary": "125132.8",
+            "avg_salary": "106184.0"
+        }
+    ],
+    "\"23420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84510.4",
+            "level2_salary": "106163.2",
+            "level3_salary": "127816.0",
+            "level4_salary": "149468.8",
+            "avg_salary": "128044.8"
+        }
+    ],
+    "\"23460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72009.6",
+            "level2_salary": "93329.6",
+            "level3_salary": "114649.6",
+            "level4_salary": "135969.6",
+            "avg_salary": "114857.6"
+        }
+    ],
+    "\"23540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "58884.8",
+            "level2_salary": "80371.2",
+            "level3_salary": "101836.8",
+            "level4_salary": "123323.2",
+            "avg_salary": "102044.8"
+        }
+    ],
+    "\"23580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "82056.0",
+            "level2_salary": "102752.0",
+            "level3_salary": "123448.0",
+            "level4_salary": "144144.0",
+            "avg_salary": "123656.0"
+        }
+    ],
+    "\"23900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71011.2",
+            "level2_salary": "93204.8",
+            "level3_salary": "115377.6",
+            "level4_salary": "137571.2",
+            "avg_salary": "115606.4"
+        }
+    ],
+    "\"24020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77792.0",
+            "level2_salary": "100609.6",
+            "level3_salary": "123406.4",
+            "level4_salary": "146224.0",
+            "avg_salary": "123635.2"
+        }
+    ],
+    "\"24140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65769.6",
+            "level2_salary": "89419.2",
+            "level3_salary": "113048.0",
+            "level4_salary": "136697.6",
+            "avg_salary": "113297.6"
+        }
+    ],
+    "\"24220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "63772.8",
+            "level2_salary": "80308.8",
+            "level3_salary": "96824.0",
+            "level4_salary": "113360.0",
+            "avg_salary": "96990.4"
+        }
+    ],
+    "\"24260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61942.4",
+            "level2_salary": "80787.2",
+            "level3_salary": "99632.0",
+            "level4_salary": "118476.8",
+            "avg_salary": "99819.2"
+        }
+    ],
+    "\"24300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73819.2",
+            "level2_salary": "95139.2",
+            "level3_salary": "116438.4",
+            "level4_salary": "137758.4",
+            "avg_salary": "116667.2"
+        }
+    ],
+    "\"24340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72425.6",
+            "level2_salary": "90792.0",
+            "level3_salary": "109137.6",
+            "level4_salary": "127504.0",
+            "avg_salary": "109324.8"
+        }
+    ],
+    "\"24420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85217.6",
+            "level2_salary": "108243.2",
+            "level3_salary": "131248.0",
+            "level4_salary": "154273.6",
+            "avg_salary": "131497.6"
+        }
+    ],
+    "\"24500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61963.2",
+            "level2_salary": "89252.8",
+            "level3_salary": "116563.2",
+            "level4_salary": "143852.8",
+            "avg_salary": "116833.6"
+        }
+    ],
+    "\"24540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87755.2",
+            "level2_salary": "112382.4",
+            "level3_salary": "137009.6",
+            "level4_salary": "161636.8",
+            "avg_salary": "137259.2"
+        }
+    ],
+    "\"24580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73902.4",
+            "level2_salary": "90376.0",
+            "level3_salary": "106828.8",
+            "level4_salary": "123302.4",
+            "avg_salary": "106995.2"
+        }
+    ],
+    "\"24660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81120.0",
+            "level2_salary": "100942.4",
+            "level3_salary": "120764.8",
+            "level4_salary": "140587.2",
+            "avg_salary": "120972.8"
+        }
+    ],
+    "\"24780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70408.0",
+            "level2_salary": "91624.0",
+            "level3_salary": "112860.8",
+            "level4_salary": "134076.8",
+            "avg_salary": "113068.8"
+        }
+    ],
+    "\"24860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67787.2",
+            "level2_salary": "89502.4",
+            "level3_salary": "111238.4",
+            "level4_salary": "132953.6",
+            "avg_salary": "111446.4"
+        }
+    ],
+    "\"25020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "37731.2",
+            "level2_salary": "52166.4",
+            "level3_salary": "66601.6",
+            "level4_salary": "81036.8",
+            "avg_salary": "66747.2"
+        }
+    ],
+    "\"25060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "53081.6",
+            "level2_salary": "74568.0",
+            "level3_salary": "96075.2",
+            "level4_salary": "117561.6",
+            "avg_salary": "96283.2"
+        }
+    ],
+    "\"25180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80225.6",
+            "level2_salary": "100984.0",
+            "level3_salary": "121742.4",
+            "level4_salary": "142500.8",
+            "avg_salary": "121950.4"
+        }
+    ],
+    "\"25220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74401.6",
+            "level2_salary": "91249.6",
+            "level3_salary": "108118.4",
+            "level4_salary": "124966.4",
+            "avg_salary": "108284.8"
+        }
+    ],
+    "\"25260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "88899.2",
+            "level2_salary": "113401.6",
+            "level3_salary": "137924.8",
+            "level4_salary": "162427.2",
+            "avg_salary": "138153.6"
+        }
+    ],
+    "\"25420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77105.6",
+            "level2_salary": "94390.4",
+            "level3_salary": "111675.2",
+            "level4_salary": "128960.0",
+            "avg_salary": "111841.6"
+        }
+    ],
+    "\"25500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72092.8",
+            "level2_salary": "90896.0",
+            "level3_salary": "109720.0",
+            "level4_salary": "128523.2",
+            "avg_salary": "109907.2"
+        }
+    ],
+    "\"25540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85987.2",
+            "level2_salary": "106475.2",
+            "level3_salary": "126942.4",
+            "level4_salary": "147430.4",
+            "avg_salary": "127150.4"
+        }
+    ],
+    "\"25620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "45593.6",
+            "level2_salary": "57096.0",
+            "level3_salary": "68619.2",
+            "level4_salary": "80121.6",
+            "avg_salary": "68723.2"
+        }
+    ],
+    "\"25740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69825.6",
+            "level2_salary": "91582.4",
+            "level3_salary": "113339.2",
+            "level4_salary": "135096.0",
+            "avg_salary": "113547.2"
+        }
+    ],
+    "\"25860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75795.2",
+            "level2_salary": "103209.6",
+            "level3_salary": "130603.2",
+            "level4_salary": "158017.6",
+            "avg_salary": "130894.4"
+        }
+    ],
+    "\"25940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "57990.4",
+            "level2_salary": "99070.4",
+            "level3_salary": "140171.2",
+            "level4_salary": "181251.2",
+            "avg_salary": "140566.4"
+        }
+    ],
+    "\"25980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67620.8",
+            "level2_salary": "91416.0",
+            "level3_salary": "115232.0",
+            "level4_salary": "139027.2",
+            "avg_salary": "115460.8"
+        }
+    ],
+    "\"26140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84323.2",
+            "level2_salary": "103563.2",
+            "level3_salary": "122824.0",
+            "level4_salary": "142064.0",
+            "avg_salary": "123011.2"
+        }
+    ],
+    "\"26300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "56929.6",
+            "level2_salary": "78478.4",
+            "level3_salary": "100006.4",
+            "level4_salary": "121555.2",
+            "avg_salary": "100235.2"
+        }
+    ],
+    "\"26380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75940.8",
+            "level2_salary": "91353.6",
+            "level3_salary": "106787.2",
+            "level4_salary": "122200.0",
+            "avg_salary": "106932.8"
+        }
+    ],
+    "\"26420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84094.4",
+            "level2_salary": "105976.0",
+            "level3_salary": "127836.8",
+            "level4_salary": "149718.4",
+            "avg_salary": "128065.6"
+        }
+    ],
+    "\"26580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62982.4",
+            "level2_salary": "82097.6",
+            "level3_salary": "101212.8",
+            "level4_salary": "120328.0",
+            "avg_salary": "101400.0"
+        }
+    ],
+    "\"26620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77771.2",
+            "level2_salary": "100734.4",
+            "level3_salary": "123697.6",
+            "level4_salary": "146660.8",
+            "avg_salary": "123926.4"
+        }
+    ],
+    "\"26820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62212.8",
+            "level2_salary": "92206.4",
+            "level3_salary": "122220.8",
+            "level4_salary": "152214.4",
+            "avg_salary": "122512.0"
+        }
+    ],
+    "\"26900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77896.0",
+            "level2_salary": "95201.6",
+            "level3_salary": "112507.2",
+            "level4_salary": "129812.8",
+            "avg_salary": "112673.6"
+        }
+    ],
+    "\"26980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76835.2",
+            "level2_salary": "92560.0",
+            "level3_salary": "108264.0",
+            "level4_salary": "123988.8",
+            "avg_salary": "108430.4"
+        }
+    ],
+    "\"27060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75566.4",
+            "level2_salary": "100838.4",
+            "level3_salary": "126089.6",
+            "level4_salary": "151361.6",
+            "avg_salary": "126360.0"
+        }
+    ],
+    "\"27100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77084.8",
+            "level2_salary": "98508.8",
+            "level3_salary": "119953.6",
+            "level4_salary": "141377.6",
+            "avg_salary": "120161.6"
+        }
+    ],
+    "\"27140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "58011.2",
+            "level2_salary": "77979.2",
+            "level3_salary": "97947.2",
+            "level4_salary": "117915.2",
+            "avg_salary": "98134.4"
+        }
+    ],
+    "\"27180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67142.4",
+            "level2_salary": "86153.6",
+            "level3_salary": "105164.8",
+            "level4_salary": "124176.0",
+            "avg_salary": "105352.0"
+        }
+    ],
+    "\"27260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76377.6",
+            "level2_salary": "102752.0",
+            "level3_salary": "129147.2",
+            "level4_salary": "155521.6",
+            "avg_salary": "129417.6"
+        }
+    ],
+    "\"27340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73112.0",
+            "level2_salary": "97094.4",
+            "level3_salary": "121076.8",
+            "level4_salary": "145059.2",
+            "avg_salary": "121326.4"
+        }
+    ],
+    "\"27500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67995.2",
+            "level2_salary": "86361.6",
+            "level3_salary": "104748.8",
+            "level4_salary": "123115.2",
+            "avg_salary": "104915.2"
+        }
+    ],
+    "\"27620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62150.4",
+            "level2_salary": "82305.6",
+            "level3_salary": "102481.6",
+            "level4_salary": "122636.8",
+            "avg_salary": "102668.8"
+        }
+    ],
+    "\"27740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "58489.6",
+            "level2_salary": "75171.2",
+            "level3_salary": "91873.6",
+            "level4_salary": "108555.2",
+            "avg_salary": "92040.0"
+        }
+    ],
+    "\"27780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65811.2",
+            "level2_salary": "83824.0",
+            "level3_salary": "101857.6",
+            "level4_salary": "119870.4",
+            "avg_salary": "102044.8"
+        }
+    ],
+    "\"27860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "58614.4",
+            "level2_salary": "74942.4",
+            "level3_salary": "91249.6",
+            "level4_salary": "107577.6",
+            "avg_salary": "91416.0"
+        }
+    ],
+    "\"27900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69056.0",
+            "level2_salary": "88940.8",
+            "level3_salary": "108846.4",
+            "level4_salary": "128731.2",
+            "avg_salary": "109033.6"
+        }
+    ],
+    "\"27980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71843.2",
+            "level2_salary": "113401.6",
+            "level3_salary": "154980.8",
+            "level4_salary": "196539.2",
+            "avg_salary": "155396.8"
+        }
+    ],
+    "\"28020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77022.4",
+            "level2_salary": "94286.4",
+            "level3_salary": "111571.2",
+            "level4_salary": "128835.2",
+            "avg_salary": "111737.6"
+        }
+    ],
+    "\"28100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74464.0",
+            "level2_salary": "95451.2",
+            "level3_salary": "116438.4",
+            "level4_salary": "137425.6",
+            "avg_salary": "116646.4"
+        }
+    ],
+    "\"28140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76086.4",
+            "level2_salary": "95700.8",
+            "level3_salary": "115336.0",
+            "level4_salary": "134950.4",
+            "avg_salary": "115523.2"
+        }
+    ],
+    "\"28420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "94057.6",
+            "level2_salary": "115731.2",
+            "level3_salary": "137384.0",
+            "level4_salary": "159057.6",
+            "avg_salary": "137612.8"
+        }
+    ],
+    "\"28450\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72529.6",
+            "level2_salary": "95867.2",
+            "level3_salary": "119225.6",
+            "level4_salary": "142563.2",
+            "avg_salary": "119454.4"
+        }
+    ],
+    "\"28660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77334.4",
+            "level2_salary": "98113.6",
+            "level3_salary": "118872.0",
+            "level4_salary": "139651.2",
+            "avg_salary": "119080.0"
+        }
+    ],
+    "\"28700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78582.4",
+            "level2_salary": "97968.0",
+            "level3_salary": "117353.6",
+            "level4_salary": "136739.2",
+            "avg_salary": "117540.8"
+        }
+    ],
+    "\"28740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76648.0",
+            "level2_salary": "101774.4",
+            "level3_salary": "126880.0",
+            "level4_salary": "152006.4",
+            "avg_salary": "127150.4"
+        }
+    ],
+    "\"28880\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "88878.4",
+            "level2_salary": "115398.4",
+            "level3_salary": "141939.2",
+            "level4_salary": "168459.2",
+            "avg_salary": "142209.6"
+        }
+    ],
+    "\"28940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78124.8",
+            "level2_salary": "97281.6",
+            "level3_salary": "116417.6",
+            "level4_salary": "135574.4",
+            "avg_salary": "116604.8"
+        }
+    ],
+    "\"29020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66539.2",
+            "level2_salary": "84988.8",
+            "level3_salary": "103417.6",
+            "level4_salary": "121867.2",
+            "avg_salary": "103604.8"
+        }
+    ],
+    "\"29100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71364.8",
+            "level2_salary": "89918.4",
+            "level3_salary": "108492.8",
+            "level4_salary": "127046.4",
+            "avg_salary": "108680.0"
+        }
+    ],
+    "\"29180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67912.0",
+            "level2_salary": "83262.4",
+            "level3_salary": "98612.8",
+            "level4_salary": "113963.2",
+            "avg_salary": "98758.4"
+        }
+    ],
+    "\"29200\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67163.2",
+            "level2_salary": "81036.8",
+            "level3_salary": "94910.4",
+            "level4_salary": "108784.0",
+            "avg_salary": "95035.2"
+        }
+    ],
+    "\"29340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78603.2",
+            "level2_salary": "96657.6",
+            "level3_salary": "114712.0",
+            "level4_salary": "132766.4",
+            "avg_salary": "114878.4"
+        }
+    ],
+    "\"29420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70844.8",
+            "level2_salary": "94265.6",
+            "level3_salary": "117686.4",
+            "level4_salary": "141107.2",
+            "avg_salary": "117915.2"
+        }
+    ],
+    "\"29460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78291.2",
+            "level2_salary": "99028.8",
+            "level3_salary": "119787.2",
+            "level4_salary": "140524.8",
+            "avg_salary": "119995.2"
+        }
+    ],
+    "\"29540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72758.4",
+            "level2_salary": "91811.2",
+            "level3_salary": "110884.8",
+            "level4_salary": "129937.6",
+            "avg_salary": "111072.0"
+        }
+    ],
+    "\"29620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70803.2",
+            "level2_salary": "84968.0",
+            "level3_salary": "99112.0",
+            "level4_salary": "113276.8",
+            "avg_salary": "99257.6"
+        }
+    ],
+    "\"29700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70428.8",
+            "level2_salary": "90833.6",
+            "level3_salary": "111217.6",
+            "level4_salary": "131622.4",
+            "avg_salary": "111425.6"
+        }
+    ],
+    "\"29740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65062.4",
+            "level2_salary": "87630.4",
+            "level3_salary": "110198.4",
+            "level4_salary": "132766.4",
+            "avg_salary": "110427.2"
+        }
+    ],
+    "\"29820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84489.6",
+            "level2_salary": "110801.6",
+            "level3_salary": "137092.8",
+            "level4_salary": "163404.8",
+            "avg_salary": "137363.2"
+        }
+    ],
+    "\"29940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67683.2",
+            "level2_salary": "89856.0",
+            "level3_salary": "112028.8",
+            "level4_salary": "134201.6",
+            "avg_salary": "112257.6"
+        }
+    ],
+    "\"30020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "54454.4",
+            "level2_salary": "73444.8",
+            "level3_salary": "92414.4",
+            "level4_salary": "111404.8",
+            "avg_salary": "92601.6"
+        }
+    ],
+    "\"30140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75816.0",
+            "level2_salary": "93121.6",
+            "level3_salary": "110406.4",
+            "level4_salary": "127712.0",
+            "avg_salary": "110593.6"
+        }
+    ],
+    "\"30300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68452.8",
+            "level2_salary": "93641.6",
+            "level3_salary": "118851.2",
+            "level4_salary": "144040.0",
+            "avg_salary": "119100.8"
+        }
+    ],
+    "\"30340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80100.8",
+            "level2_salary": "97115.2",
+            "level3_salary": "114150.4",
+            "level4_salary": "131164.8",
+            "avg_salary": "114316.8"
+        }
+    ],
+    "\"30460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79934.4",
+            "level2_salary": "101816.0",
+            "level3_salary": "123718.4",
+            "level4_salary": "145600.0",
+            "avg_salary": "123926.4"
+        }
+    ],
+    "\"30500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "94016.0",
+            "level2_salary": "116355.2",
+            "level3_salary": "138694.4",
+            "level4_salary": "161033.6",
+            "avg_salary": "138923.2"
+        }
+    ],
+    "\"30620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74796.8",
+            "level2_salary": "94827.2",
+            "level3_salary": "114878.4",
+            "level4_salary": "134908.8",
+            "avg_salary": "115065.6"
+        }
+    ],
+    "\"30700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71136.0",
+            "level2_salary": "87921.6",
+            "level3_salary": "104707.2",
+            "level4_salary": "121492.8",
+            "avg_salary": "104873.6"
+        }
+    ],
+    "\"30780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65561.6",
+            "level2_salary": "83449.6",
+            "level3_salary": "101316.8",
+            "level4_salary": "119204.8",
+            "avg_salary": "101504.0"
+        }
+    ],
+    "\"30860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66643.2",
+            "level2_salary": "87318.4",
+            "level3_salary": "107993.6",
+            "level4_salary": "128668.8",
+            "avg_salary": "108201.6"
+        }
+    ],
+    "\"30980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72384.0",
+            "level2_salary": "90459.2",
+            "level3_salary": "108555.2",
+            "level4_salary": "126630.4",
+            "avg_salary": "108721.6"
+        }
+    ],
+    "\"31020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "88899.2",
+            "level2_salary": "110656.0",
+            "level3_salary": "132392.0",
+            "level4_salary": "154148.8",
+            "avg_salary": "132620.8"
+        }
+    ],
+    "\"31080\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "102232.0",
+            "level2_salary": "129667.2",
+            "level3_salary": "157123.2",
+            "level4_salary": "184558.4",
+            "avg_salary": "157393.6"
+        }
+    ],
+    "\"31140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76814.4",
+            "level2_salary": "94764.8",
+            "level3_salary": "112694.4",
+            "level4_salary": "130644.8",
+            "avg_salary": "112881.6"
+        }
+    ],
+    "\"31180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69056.0",
+            "level2_salary": "88816.0",
+            "level3_salary": "108596.8",
+            "level4_salary": "128356.8",
+            "avg_salary": "108784.0"
+        }
+    ],
+    "\"31340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73611.2",
+            "level2_salary": "93059.2",
+            "level3_salary": "112486.4",
+            "level4_salary": "131934.4",
+            "avg_salary": "112673.6"
+        }
+    ],
+    "\"31420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79580.8",
+            "level2_salary": "98092.8",
+            "level3_salary": "116584.0",
+            "level4_salary": "135096.0",
+            "avg_salary": "116771.2"
+        }
+    ],
+    "\"31540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81702.4",
+            "level2_salary": "98092.8",
+            "level3_salary": "114504.0",
+            "level4_salary": "130894.4",
+            "avg_salary": "114670.4"
+        }
+    ],
+    "\"31700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "102419.2",
+            "level2_salary": "125028.8",
+            "level3_salary": "147638.4",
+            "level4_salary": "170248.0",
+            "avg_salary": "147867.2"
+        }
+    ],
+    "\"31740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64355.2",
+            "level2_salary": "83345.6",
+            "level3_salary": "102315.2",
+            "level4_salary": "121305.6",
+            "avg_salary": "102523.2"
+        }
+    ],
+    "\"31860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67392.0",
+            "level2_salary": "83158.4",
+            "level3_salary": "98924.8",
+            "level4_salary": "114691.2",
+            "avg_salary": "99091.2"
+        }
+    ],
+    "\"31900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62691.2",
+            "level2_salary": "82867.2",
+            "level3_salary": "103022.4",
+            "level4_salary": "123198.4",
+            "avg_salary": "103230.4"
+        }
+    ],
+    "\"32420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "47465.6",
+            "level2_salary": "61692.8",
+            "level3_salary": "75899.2",
+            "level4_salary": "90126.4",
+            "avg_salary": "76044.8"
+        }
+    ],
+    "\"32580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69160.0",
+            "level2_salary": "88212.8",
+            "level3_salary": "107265.6",
+            "level4_salary": "126318.4",
+            "avg_salary": "107452.8"
+        }
+    ],
+    "\"32780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87422.4",
+            "level2_salary": "108472.0",
+            "level3_salary": "129542.4",
+            "level4_salary": "150592.0",
+            "avg_salary": "129729.6"
+        }
+    ],
+    "\"32820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78686.4",
+            "level2_salary": "97385.6",
+            "level3_salary": "116105.6",
+            "level4_salary": "134804.8",
+            "avg_salary": "116292.8"
+        }
+    ],
+    "\"32900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81328.0",
+            "level2_salary": "108284.8",
+            "level3_salary": "135262.4",
+            "level4_salary": "162219.2",
+            "avg_salary": "135532.8"
+        }
+    ],
+    "\"33100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83657.6",
+            "level2_salary": "110947.2",
+            "level3_salary": "138257.6",
+            "level4_salary": "165547.2",
+            "avg_salary": "138528.0"
+        }
+    ],
+    "\"33140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71011.2",
+            "level2_salary": "85508.8",
+            "level3_salary": "100006.4",
+            "level4_salary": "114504.0",
+            "avg_salary": "100152.0"
+        }
+    ],
+    "\"33220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78852.8",
+            "level2_salary": "97635.2",
+            "level3_salary": "116417.6",
+            "level4_salary": "135200.0",
+            "avg_salary": "116604.8"
+        }
+    ],
+    "\"33260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85654.4",
+            "level2_salary": "106891.2",
+            "level3_salary": "128128.0",
+            "level4_salary": "149364.8",
+            "avg_salary": "128336.0"
+        }
+    ],
+    "\"33340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79040.0",
+            "level2_salary": "96491.2",
+            "level3_salary": "113921.6",
+            "level4_salary": "131372.8",
+            "avg_salary": "114108.8"
+        }
+    ],
+    "\"33460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87360.0",
+            "level2_salary": "106579.2",
+            "level3_salary": "125798.4",
+            "level4_salary": "145017.6",
+            "avg_salary": "125985.6"
+        }
+    ],
+    "\"33500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "55140.8",
+            "level2_salary": "73777.6",
+            "level3_salary": "92414.4",
+            "level4_salary": "111051.2",
+            "avg_salary": "92601.6"
+        }
+    ],
+    "\"33540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66393.6",
+            "level2_salary": "87172.8",
+            "level3_salary": "107931.2",
+            "level4_salary": "128710.4",
+            "avg_salary": "108139.2"
+        }
+    ],
+    "\"33660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65228.8",
+            "level2_salary": "86590.4",
+            "level3_salary": "107972.8",
+            "level4_salary": "129334.4",
+            "avg_salary": "108180.8"
+        }
+    ],
+    "\"33700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81952.0",
+            "level2_salary": "101462.4",
+            "level3_salary": "120993.6",
+            "level4_salary": "140504.0",
+            "avg_salary": "121180.8"
+        }
+    ],
+    "\"33740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68411.2",
+            "level2_salary": "88296.0",
+            "level3_salary": "108180.8",
+            "level4_salary": "128065.6",
+            "avg_salary": "108388.8"
+        }
+    ],
+    "\"33780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76148.8",
+            "level2_salary": "92830.4",
+            "level3_salary": "109512.0",
+            "level4_salary": "126193.6",
+            "avg_salary": "109678.4"
+        }
+    ],
+    "\"33860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67766.4",
+            "level2_salary": "87380.8",
+            "level3_salary": "107016.0",
+            "level4_salary": "126630.4",
+            "avg_salary": "107203.2"
+        }
+    ],
+    "\"34060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72009.6",
+            "level2_salary": "87776.0",
+            "level3_salary": "103542.4",
+            "level4_salary": "119308.8",
+            "avg_salary": "103708.8"
+        }
+    ],
+    "\"34100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68598.4",
+            "level2_salary": "88004.8",
+            "level3_salary": "107432.0",
+            "level4_salary": "126838.4",
+            "avg_salary": "107619.2"
+        }
+    ],
+    "\"34580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87464.0",
+            "level2_salary": "107785.6",
+            "level3_salary": "128086.4",
+            "level4_salary": "148408.0",
+            "avg_salary": "128294.4"
+        }
+    ],
+    "\"34620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68307.2",
+            "level2_salary": "82513.6",
+            "level3_salary": "96720.0",
+            "level4_salary": "110926.4",
+            "avg_salary": "96865.6"
+        }
+    ],
+    "\"34740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66684.8",
+            "level2_salary": "84073.6",
+            "level3_salary": "101483.2",
+            "level4_salary": "118872.0",
+            "avg_salary": "101649.6"
+        }
+    ],
+    "\"34820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "55577.6",
+            "level2_salary": "81889.6",
+            "level3_salary": "108180.8",
+            "level4_salary": "134492.8",
+            "avg_salary": "108451.2"
+        }
+    ],
+    "\"34900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91603.2",
+            "level2_salary": "115502.4",
+            "level3_salary": "139422.4",
+            "level4_salary": "163321.6",
+            "avg_salary": "139651.2"
+        }
+    ],
+    "\"34940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81473.6",
+            "level2_salary": "107203.2",
+            "level3_salary": "132953.6",
+            "level4_salary": "158683.2",
+            "avg_salary": "133203.2"
+        }
+    ],
+    "\"34980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84531.2",
+            "level2_salary": "103334.4",
+            "level3_salary": "122116.8",
+            "level4_salary": "140920.0",
+            "avg_salary": "122304.0"
+        }
+    ],
+    "\"35300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87297.6",
+            "level2_salary": "106932.8",
+            "level3_salary": "126588.8",
+            "level4_salary": "146224.0",
+            "avg_salary": "126776.0"
+        }
+    ],
+    "\"35380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78603.2",
+            "level2_salary": "105892.8",
+            "level3_salary": "133182.4",
+            "level4_salary": "160472.0",
+            "avg_salary": "133452.8"
+        }
+    ],
+    "\"35620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "103209.6",
+            "level2_salary": "131996.8",
+            "level3_salary": "160804.8",
+            "level4_salary": "189592.0",
+            "avg_salary": "161096.0"
+        }
+    ],
+    "\"35660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76481.6",
+            "level2_salary": "93475.2",
+            "level3_salary": "110468.8",
+            "level4_salary": "127462.4",
+            "avg_salary": "110635.2"
+        }
+    ],
+    "\"35840\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80080.0",
+            "level2_salary": "105331.2",
+            "level3_salary": "130603.2",
+            "level4_salary": "155854.4",
+            "avg_salary": "130852.8"
+        }
+    ],
+    "\"35980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83865.6",
+            "level2_salary": "102523.2",
+            "level3_salary": "121201.6",
+            "level4_salary": "139859.2",
+            "avg_salary": "121388.8"
+        }
+    ],
+    "\"36100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75358.4",
+            "level2_salary": "97115.2",
+            "level3_salary": "118892.8",
+            "level4_salary": "140649.6",
+            "avg_salary": "119100.8"
+        }
+    ],
+    "\"36220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76710.4",
+            "level2_salary": "97968.0",
+            "level3_salary": "119225.6",
+            "level4_salary": "140483.2",
+            "avg_salary": "119433.6"
+        }
+    ],
+    "\"36260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73985.6",
+            "level2_salary": "95971.2",
+            "level3_salary": "117936.0",
+            "level4_salary": "139921.6",
+            "avg_salary": "118164.8"
+        }
+    ],
+    "\"36420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72425.6",
+            "level2_salary": "92164.8",
+            "level3_salary": "111883.2",
+            "level4_salary": "131622.4",
+            "avg_salary": "112091.2"
+        }
+    ],
+    "\"36500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92788.8",
+            "level2_salary": "110656.0",
+            "level3_salary": "128544.0",
+            "level4_salary": "146411.2",
+            "avg_salary": "128710.4"
+        }
+    ],
+    "\"36540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84531.2",
+            "level2_salary": "101358.4",
+            "level3_salary": "118164.8",
+            "level4_salary": "134992.0",
+            "avg_salary": "118352.0"
+        }
+    ],
+    "\"36740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77251.2",
+            "level2_salary": "99195.2",
+            "level3_salary": "121118.4",
+            "level4_salary": "143062.4",
+            "avg_salary": "121347.2"
+        }
+    ],
+    "\"36780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77854.4",
+            "level2_salary": "94265.6",
+            "level3_salary": "110656.0",
+            "level4_salary": "127067.2",
+            "avg_salary": "110822.4"
+        }
+    ],
+    "\"36980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66497.6",
+            "level2_salary": "85446.4",
+            "level3_salary": "104374.4",
+            "level4_salary": "123323.2",
+            "avg_salary": "104561.6"
+        }
+    ],
+    "\"37100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "97988.8",
+            "level2_salary": "136385.6",
+            "level3_salary": "174782.4",
+            "level4_salary": "213179.2",
+            "avg_salary": "175177.6"
+        }
+    ],
+    "\"37140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71822.4",
+            "level2_salary": "91270.4",
+            "level3_salary": "110697.6",
+            "level4_salary": "130145.6",
+            "avg_salary": "110905.6"
+        }
+    ],
+    "\"37340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "86091.2",
+            "level2_salary": "106392.0",
+            "level3_salary": "126672.0",
+            "level4_salary": "146972.8",
+            "avg_salary": "126880.0"
+        }
+    ],
+    "\"37460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73902.4",
+            "level2_salary": "95721.6",
+            "level3_salary": "117540.8",
+            "level4_salary": "139360.0",
+            "avg_salary": "117748.8"
+        }
+    ],
+    "\"37620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74734.4",
+            "level2_salary": "93641.6",
+            "level3_salary": "112548.8",
+            "level4_salary": "131456.0",
+            "avg_salary": "112736.0"
+        }
+    ],
+    "\"37860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71302.4",
+            "level2_salary": "93329.6",
+            "level3_salary": "115377.6",
+            "level4_salary": "137404.8",
+            "avg_salary": "115585.6"
+        }
+    ],
+    "\"37900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75400.0",
+            "level2_salary": "92788.8",
+            "level3_salary": "110198.4",
+            "level4_salary": "127587.2",
+            "avg_salary": "110364.8"
+        }
+    ],
+    "\"37980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "88088.0",
+            "level2_salary": "109844.8",
+            "level3_salary": "131601.6",
+            "level4_salary": "153358.4",
+            "avg_salary": "131830.4"
+        }
+    ],
+    "\"38060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "87651.2",
+            "level2_salary": "111072.0",
+            "level3_salary": "134513.6",
+            "level4_salary": "157934.4",
+            "avg_salary": "134742.4"
+        }
+    ],
+    "\"38240\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64272.0",
+            "level2_salary": "87838.4",
+            "level3_salary": "111384.0",
+            "level4_salary": "134950.4",
+            "avg_salary": "111633.6"
+        }
+    ],
+    "\"38300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76918.4",
+            "level2_salary": "98196.8",
+            "level3_salary": "119475.2",
+            "level4_salary": "140753.6",
+            "avg_salary": "119683.2"
+        }
+    ],
+    "\"38340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90916.8",
+            "level2_salary": "117353.6",
+            "level3_salary": "143811.2",
+            "level4_salary": "170248.0",
+            "avg_salary": "144081.6"
+        }
+    ],
+    "\"38540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66435.2",
+            "level2_salary": "96761.6",
+            "level3_salary": "127067.2",
+            "level4_salary": "157393.6",
+            "avg_salary": "127379.2"
+        }
+    ],
+    "\"38660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "26832.0",
+            "level2_salary": "36940.8",
+            "level3_salary": "47070.4",
+            "level4_salary": "57179.2",
+            "avg_salary": "47153.6"
+        }
+    ],
+    "\"38860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85737.6",
+            "level2_salary": "103937.6",
+            "level3_salary": "122158.4",
+            "level4_salary": "140358.4",
+            "avg_salary": "122345.6"
+        }
+    ],
+    "\"38900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "102897.6",
+            "level2_salary": "127878.4",
+            "level3_salary": "152880.0",
+            "level4_salary": "177860.8",
+            "avg_salary": "153129.6"
+        }
+    ],
+    "\"38940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76315.2",
+            "level2_salary": "101836.8",
+            "level3_salary": "127337.6",
+            "level4_salary": "152859.2",
+            "avg_salary": "127608.0"
+        }
+    ],
+    "\"39150\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75628.8",
+            "level2_salary": "101337.6",
+            "level3_salary": "127025.6",
+            "level4_salary": "152734.4",
+            "avg_salary": "127275.2"
+        }
+    ],
+    "\"39300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90417.6",
+            "level2_salary": "109512.0",
+            "level3_salary": "128585.6",
+            "level4_salary": "147680.0",
+            "avg_salary": "128772.8"
+        }
+    ],
+    "\"39340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79497.6",
+            "level2_salary": "104083.2",
+            "level3_salary": "128668.8",
+            "level4_salary": "153254.4",
+            "avg_salary": "128918.4"
+        }
+    ],
+    "\"39380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68286.4",
+            "level2_salary": "88192.0",
+            "level3_salary": "108118.4",
+            "level4_salary": "128024.0",
+            "avg_salary": "108305.6"
+        }
+    ],
+    "\"39460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92227.2",
+            "level2_salary": "111945.6",
+            "level3_salary": "131664.0",
+            "level4_salary": "151382.4",
+            "avg_salary": "131851.2"
+        }
+    ],
+    "\"39540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68432.0",
+            "level2_salary": "84864.0",
+            "level3_salary": "101296.0",
+            "level4_salary": "117728.0",
+            "avg_salary": "101462.4"
+        }
+    ],
+    "\"39580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91707.2",
+            "level2_salary": "113547.2",
+            "level3_salary": "135408.0",
+            "level4_salary": "157248.0",
+            "avg_salary": "135616.0"
+        }
+    ],
+    "\"39660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67828.8",
+            "level2_salary": "82576.0",
+            "level3_salary": "97344.0",
+            "level4_salary": "112091.2",
+            "avg_salary": "97489.6"
+        }
+    ],
+    "\"39740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80724.8",
+            "level2_salary": "99528.0",
+            "level3_salary": "118310.4",
+            "level4_salary": "137113.6",
+            "avg_salary": "118497.6"
+        }
+    ],
+    "\"39820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76273.6",
+            "level2_salary": "97905.6",
+            "level3_salary": "119558.4",
+            "level4_salary": "141190.4",
+            "avg_salary": "119766.4"
+        }
+    ],
+    "\"39900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83179.2",
+            "level2_salary": "110219.2",
+            "level3_salary": "137259.2",
+            "level4_salary": "164299.2",
+            "avg_salary": "137529.6"
+        }
+    ],
+    "\"40060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83636.8",
+            "level2_salary": "107411.2",
+            "level3_salary": "131206.4",
+            "level4_salary": "154980.8",
+            "avg_salary": "131435.2"
+        }
+    ],
+    "\"40140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91353.6",
+            "level2_salary": "115980.8",
+            "level3_salary": "140587.2",
+            "level4_salary": "165214.4",
+            "avg_salary": "140836.8"
+        }
+    ],
+    "\"40220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69846.4",
+            "level2_salary": "87547.2",
+            "level3_salary": "105227.2",
+            "level4_salary": "122928.0",
+            "avg_salary": "105414.4"
+        }
+    ],
+    "\"40340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "103126.4",
+            "level2_salary": "118872.0",
+            "level3_salary": "134596.8",
+            "level4_salary": "150342.4",
+            "avg_salary": "134763.2"
+        }
+    ],
+    "\"40380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75545.6",
+            "level2_salary": "96220.8",
+            "level3_salary": "116896.0",
+            "level4_salary": "137571.2",
+            "avg_salary": "117104.0"
+        }
+    ],
+    "\"40420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70449.6",
+            "level2_salary": "89273.6",
+            "level3_salary": "108118.4",
+            "level4_salary": "126942.4",
+            "avg_salary": "108305.6"
+        }
+    ],
+    "\"40580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80038.4",
+            "level2_salary": "96595.2",
+            "level3_salary": "113131.2",
+            "level4_salary": "129688.0",
+            "avg_salary": "113297.6"
+        }
+    ],
+    "\"40660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65374.4",
+            "level2_salary": "86486.4",
+            "level3_salary": "107598.4",
+            "level4_salary": "128710.4",
+            "avg_salary": "107806.4"
+        }
+    ],
+    "\"40900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "100089.6",
+            "level2_salary": "124592.0",
+            "level3_salary": "149115.2",
+            "level4_salary": "173617.6",
+            "avg_salary": "149344.0"
+        }
+    ],
+    "\"40980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75441.6",
+            "level2_salary": "88920.0",
+            "level3_salary": "102398.4",
+            "level4_salary": "115876.8",
+            "avg_salary": "102523.2"
+        }
+    ],
+    "\"41060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76606.4",
+            "level2_salary": "91582.4",
+            "level3_salary": "106558.4",
+            "level4_salary": "121534.4",
+            "avg_salary": "106704.0"
+        }
+    ],
+    "\"41100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68993.6",
+            "level2_salary": "93308.8",
+            "level3_salary": "117624.0",
+            "level4_salary": "141939.2",
+            "avg_salary": "117852.8"
+        }
+    ],
+    "\"41140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67953.6",
+            "level2_salary": "83553.6",
+            "level3_salary": "99153.6",
+            "level4_salary": "114753.6",
+            "avg_salary": "99299.2"
+        }
+    ],
+    "\"41180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76044.8",
+            "level2_salary": "97385.6",
+            "level3_salary": "118705.6",
+            "level4_salary": "140046.4",
+            "avg_salary": "118913.6"
+        }
+    ],
+    "\"41420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89980.8",
+            "level2_salary": "106433.6",
+            "level3_salary": "122886.4",
+            "level4_salary": "139339.2",
+            "avg_salary": "123052.8"
+        }
+    ],
+    "\"41500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91520.0",
+            "level2_salary": "116147.2",
+            "level3_salary": "140795.2",
+            "level4_salary": "165422.4",
+            "avg_salary": "141024.0"
+        }
+    ],
+    "\"41540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78083.2",
+            "level2_salary": "100817.6",
+            "level3_salary": "123552.0",
+            "level4_salary": "146286.4",
+            "avg_salary": "123780.8"
+        }
+    ],
+    "\"41620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80537.6",
+            "level2_salary": "104499.2",
+            "level3_salary": "128440.0",
+            "level4_salary": "152401.6",
+            "avg_salary": "128689.6"
+        }
+    ],
+    "\"41660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69326.4",
+            "level2_salary": "88524.8",
+            "level3_salary": "107723.2",
+            "level4_salary": "126921.6",
+            "avg_salary": "107910.4"
+        }
+    ],
+    "\"41700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85446.4",
+            "level2_salary": "106579.2",
+            "level3_salary": "127732.8",
+            "level4_salary": "148865.6",
+            "avg_salary": "127940.8"
+        }
+    ],
+    "\"41740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "102793.6",
+            "level2_salary": "130187.2",
+            "level3_salary": "157580.8",
+            "level4_salary": "184974.4",
+            "avg_salary": "157851.2"
+        }
+    ],
+    "\"41780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71864.0",
+            "level2_salary": "91395.2",
+            "level3_salary": "110926.4",
+            "level4_salary": "130457.6",
+            "avg_salary": "111113.6"
+        }
+    ],
+    "\"41860\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "135699.2",
+            "level2_salary": "161636.8",
+            "level3_salary": "187574.4",
+            "level4_salary": "213512.0",
+            "avg_salary": "187844.8"
+        }
+    ],
+    "\"41940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "149364.8",
+            "level2_salary": "187740.8",
+            "level3_salary": "226137.6",
+            "level4_salary": "264513.6",
+            "avg_salary": "226512.0"
+        }
+    ],
+    "\"41980\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "37772.8",
+            "level2_salary": "52187.2",
+            "level3_salary": "66622.4",
+            "level4_salary": "81036.8",
+            "avg_salary": "66768.0"
+        }
+    ],
+    "\"42020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92289.6",
+            "level2_salary": "115772.8",
+            "level3_salary": "139256.0",
+            "level4_salary": "162739.2",
+            "avg_salary": "139484.8"
+        }
+    ],
+    "\"42100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "96220.8",
+            "level2_salary": "121700.8",
+            "level3_salary": "147180.8",
+            "level4_salary": "172660.8",
+            "avg_salary": "147430.4"
+        }
+    ],
+    "\"42140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75608.0",
+            "level2_salary": "97822.4",
+            "level3_salary": "120036.8",
+            "level4_salary": "142251.2",
+            "avg_salary": "120265.6"
+        }
+    ],
+    "\"42200\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "106620.8",
+            "level2_salary": "133640.0",
+            "level3_salary": "160659.2",
+            "level4_salary": "187678.4",
+            "avg_salary": "160929.6"
+        }
+    ],
+    "\"42220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "96512.0",
+            "level2_salary": "121617.6",
+            "level3_salary": "146744.0",
+            "level4_salary": "171849.6",
+            "avg_salary": "146993.6"
+        }
+    ],
+    "\"42340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68744.0",
+            "level2_salary": "93932.8",
+            "level3_salary": "119100.8",
+            "level4_salary": "144289.6",
+            "avg_salary": "119350.4"
+        }
+    ],
+    "\"42540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75046.4",
+            "level2_salary": "93787.2",
+            "level3_salary": "112528.0",
+            "level4_salary": "131268.8",
+            "avg_salary": "112715.2"
+        }
+    ],
+    "\"42660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "117748.8",
+            "level2_salary": "149240.0",
+            "level3_salary": "180710.4",
+            "level4_salary": "212201.6",
+            "avg_salary": "181043.2"
+        }
+    ],
+    "\"42680\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83158.4",
+            "level2_salary": "106787.2",
+            "level3_salary": "130436.8",
+            "level4_salary": "154065.6",
+            "avg_salary": "130665.6"
+        }
+    ],
+    "\"42700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77604.8",
+            "level2_salary": "99611.2",
+            "level3_salary": "121596.8",
+            "level4_salary": "143603.2",
+            "avg_salary": "121825.6"
+        }
+    ],
+    "\"43100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77230.4",
+            "level2_salary": "90480.0",
+            "level3_salary": "103750.4",
+            "level4_salary": "117000.0",
+            "avg_salary": "103875.2"
+        }
+    ],
+    "\"43300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80558.4",
+            "level2_salary": "102232.0",
+            "level3_salary": "123884.8",
+            "level4_salary": "145558.4",
+            "avg_salary": "124113.6"
+        }
+    ],
+    "\"43340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76356.8",
+            "level2_salary": "101816.0",
+            "level3_salary": "127296.0",
+            "level4_salary": "152755.2",
+            "avg_salary": "127545.6"
+        }
+    ],
+    "\"43420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74734.4",
+            "level2_salary": "95492.8",
+            "level3_salary": "116272.0",
+            "level4_salary": "137030.4",
+            "avg_salary": "116480.0"
+        }
+    ],
+    "\"43580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73548.8",
+            "level2_salary": "89273.6",
+            "level3_salary": "104977.6",
+            "level4_salary": "120702.4",
+            "avg_salary": "105144.0"
+        }
+    ],
+    "\"43620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64126.4",
+            "level2_salary": "77771.2",
+            "level3_salary": "91416.0",
+            "level4_salary": "105060.8",
+            "avg_salary": "91561.6"
+        }
+    ],
+    "\"43640\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77854.4",
+            "level2_salary": "96740.8",
+            "level3_salary": "115627.2",
+            "level4_salary": "134513.6",
+            "avg_salary": "115814.4"
+        }
+    ],
+    "\"43780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70283.2",
+            "level2_salary": "85716.8",
+            "level3_salary": "101150.4",
+            "level4_salary": "116584.0",
+            "avg_salary": "101316.8"
+        }
+    ],
+    "\"43900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69492.8",
+            "level2_salary": "95513.6",
+            "level3_salary": "121513.6",
+            "level4_salary": "147534.4",
+            "avg_salary": "121784.0"
+        }
+    ],
+    "\"44060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83532.8",
+            "level2_salary": "105268.8",
+            "level3_salary": "126984.0",
+            "level4_salary": "148720.0",
+            "avg_salary": "127212.8"
+        }
+    ],
+    "\"44100\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76107.2",
+            "level2_salary": "94931.2",
+            "level3_salary": "113776.0",
+            "level4_salary": "132600.0",
+            "avg_salary": "113963.2"
+        }
+    ],
+    "\"44140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91104.0",
+            "level2_salary": "109824.0",
+            "level3_salary": "128523.2",
+            "level4_salary": "147243.2",
+            "avg_salary": "128710.4"
+        }
+    ],
+    "\"44180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "59238.4",
+            "level2_salary": "79248.0",
+            "level3_salary": "99257.6",
+            "level4_salary": "119267.2",
+            "avg_salary": "99465.6"
+        }
+    ],
+    "\"44220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71947.2",
+            "level2_salary": "92144.0",
+            "level3_salary": "112361.6",
+            "level4_salary": "132558.4",
+            "avg_salary": "112569.6"
+        }
+    ],
+    "\"44300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74859.2",
+            "level2_salary": "92892.8",
+            "level3_salary": "110926.4",
+            "level4_salary": "128960.0",
+            "avg_salary": "111113.6"
+        }
+    ],
+    "\"44420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71364.8",
+            "level2_salary": "93163.2",
+            "level3_salary": "114940.8",
+            "level4_salary": "136739.2",
+            "avg_salary": "115169.6"
+        }
+    ],
+    "\"44700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90438.4",
+            "level2_salary": "112216.0",
+            "level3_salary": "133972.8",
+            "level4_salary": "155750.4",
+            "avg_salary": "134201.6"
+        }
+    ],
+    "\"44940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68723.2",
+            "level2_salary": "94036.8",
+            "level3_salary": "119371.2",
+            "level4_salary": "144684.8",
+            "avg_salary": "119620.8"
+        }
+    ],
+    "\"45060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81078.4",
+            "level2_salary": "102356.8",
+            "level3_salary": "123614.4",
+            "level4_salary": "144892.8",
+            "avg_salary": "123843.2"
+        }
+    ],
+    "\"45220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "55910.4",
+            "level2_salary": "79768.0",
+            "level3_salary": "103604.8",
+            "level4_salary": "127462.4",
+            "avg_salary": "103854.4"
+        }
+    ],
+    "\"45300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78374.4",
+            "level2_salary": "100796.8",
+            "level3_salary": "123219.2",
+            "level4_salary": "145641.6",
+            "avg_salary": "123448.0"
+        }
+    ],
+    "\"45460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66227.2",
+            "level2_salary": "82409.6",
+            "level3_salary": "98571.2",
+            "level4_salary": "114753.6",
+            "avg_salary": "98737.6"
+        }
+    ],
+    "\"45500\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80246.4",
+            "level2_salary": "102835.2",
+            "level3_salary": "125424.0",
+            "level4_salary": "148012.8",
+            "avg_salary": "125652.8"
+        }
+    ],
+    "\"45780\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70096.0",
+            "level2_salary": "89918.4",
+            "level3_salary": "109740.8",
+            "level4_salary": "129563.2",
+            "avg_salary": "109948.8"
+        }
+    ],
+    "\"45820\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65956.8",
+            "level2_salary": "85571.2",
+            "level3_salary": "105164.8",
+            "level4_salary": "124779.2",
+            "avg_salary": "105352.0"
+        }
+    ],
+    "\"45900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69014.4",
+            "level2_salary": "84115.2",
+            "level3_salary": "99216.0",
+            "level4_salary": "114316.8",
+            "avg_salary": "99361.6"
+        }
+    ],
+    "\"45940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85820.8",
+            "level2_salary": "108222.4",
+            "level3_salary": "130603.2",
+            "level4_salary": "153004.8",
+            "avg_salary": "130832.0"
+        }
+    ],
+    "\"46060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85883.2",
+            "level2_salary": "107265.6",
+            "level3_salary": "128648.0",
+            "level4_salary": "150030.4",
+            "avg_salary": "128856.0"
+        }
+    ],
+    "\"46140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68348.8",
+            "level2_salary": "91748.8",
+            "level3_salary": "115169.6",
+            "level4_salary": "138569.6",
+            "avg_salary": "115398.4"
+        }
+    ],
+    "\"46220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66102.4",
+            "level2_salary": "86299.2",
+            "level3_salary": "106516.8",
+            "level4_salary": "126713.6",
+            "avg_salary": "106704.0"
+        }
+    ],
+    "\"46300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "63564.8",
+            "level2_salary": "96158.4",
+            "level3_salary": "128731.2",
+            "level4_salary": "161324.8",
+            "avg_salary": "129064.0"
+        }
+    ],
+    "\"46340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76377.6",
+            "level2_salary": "96803.2",
+            "level3_salary": "117249.6",
+            "level4_salary": "137675.2",
+            "avg_salary": "117436.8"
+        }
+    ],
+    "\"46520\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65228.8",
+            "level2_salary": "93204.8",
+            "level3_salary": "121180.8",
+            "level4_salary": "149156.8",
+            "avg_salary": "121472.0"
+        }
+    ],
+    "\"46540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68369.6",
+            "level2_salary": "89440.0",
+            "level3_salary": "110531.2",
+            "level4_salary": "131601.6",
+            "avg_salary": "110739.2"
+        }
+    ],
+    "\"46660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "63710.4",
+            "level2_salary": "89544.0",
+            "level3_salary": "115398.4",
+            "level4_salary": "141232.0",
+            "avg_salary": "115648.0"
+        }
+    ],
+    "\"46700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91603.2",
+            "level2_salary": "114420.8",
+            "level3_salary": "137217.6",
+            "level4_salary": "160035.2",
+            "avg_salary": "137446.4"
+        }
+    ],
+    "\"47020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79414.4",
+            "level2_salary": "96470.4",
+            "level3_salary": "113526.4",
+            "level4_salary": "130582.4",
+            "avg_salary": "113692.8"
+        }
+    ],
+    "\"47220\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89897.6",
+            "level2_salary": "109824.0",
+            "level3_salary": "129750.4",
+            "level4_salary": "149676.8",
+            "avg_salary": "129958.4"
+        }
+    ],
+    "\"47260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80953.6",
+            "level2_salary": "103126.4",
+            "level3_salary": "125320.0",
+            "level4_salary": "147492.8",
+            "avg_salary": "125548.8"
+        }
+    ],
+    "\"47300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80163.2",
+            "level2_salary": "102440.0",
+            "level3_salary": "124737.6",
+            "level4_salary": "147014.4",
+            "avg_salary": "124966.4"
+        }
+    ],
+    "\"47380\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75670.4",
+            "level2_salary": "95908.8",
+            "level3_salary": "116126.4",
+            "level4_salary": "136364.8",
+            "avg_salary": "116334.4"
+        }
+    ],
+    "\"47460\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72030.4",
+            "level2_salary": "93350.4",
+            "level3_salary": "114691.2",
+            "level4_salary": "136011.2",
+            "avg_salary": "114899.2"
+        }
+    ],
+    "\"47580\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70699.2",
+            "level2_salary": "92040.0",
+            "level3_salary": "113380.8",
+            "level4_salary": "134721.6",
+            "avg_salary": "113588.8"
+        }
+    ],
+    "\"47900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "101420.8",
+            "level2_salary": "126089.6",
+            "level3_salary": "150758.4",
+            "level4_salary": "175427.2",
+            "avg_salary": "151008.0"
+        }
+    ],
+    "\"47930\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90521.6",
+            "level2_salary": "111945.6",
+            "level3_salary": "133369.6",
+            "level4_salary": "154793.6",
+            "avg_salary": "133598.4"
+        }
+    ],
+    "\"47940\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73216.0",
+            "level2_salary": "91956.8",
+            "level3_salary": "110697.6",
+            "level4_salary": "129438.4",
+            "avg_salary": "110884.8"
+        }
+    ],
+    "\"48060\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70428.8",
+            "level2_salary": "89980.8",
+            "level3_salary": "109532.8",
+            "level4_salary": "129084.8",
+            "avg_salary": "109740.8"
+        }
+    ],
+    "\"48140\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72550.4",
+            "level2_salary": "91436.8",
+            "level3_salary": "110302.4",
+            "level4_salary": "129188.8",
+            "avg_salary": "110489.6"
+        }
+    ],
+    "\"48260\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72092.8",
+            "level2_salary": "92081.6",
+            "level3_salary": "112091.2",
+            "level4_salary": "132080.0",
+            "avg_salary": "112278.4"
+        }
+    ],
+    "\"48300\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83907.2",
+            "level2_salary": "106475.2",
+            "level3_salary": "129043.2",
+            "level4_salary": "151611.2",
+            "avg_salary": "129251.2"
+        }
+    ],
+    "\"48540\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74193.6",
+            "level2_salary": "91312.0",
+            "level3_salary": "108409.6",
+            "level4_salary": "125528.0",
+            "avg_salary": "108596.8"
+        }
+    ],
+    "\"48620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67350.4",
+            "level2_salary": "86923.2",
+            "level3_salary": "106516.8",
+            "level4_salary": "126089.6",
+            "avg_salary": "106704.0"
+        }
+    ],
+    "\"48660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77958.4",
+            "level2_salary": "98072.0",
+            "level3_salary": "118206.4",
+            "level4_salary": "138320.0",
+            "avg_salary": "118393.6"
+        }
+    ],
+    "\"48680\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79206.4",
+            "level2_salary": "102710.4",
+            "level3_salary": "126235.2",
+            "level4_salary": "149739.2",
+            "avg_salary": "126464.0"
+        }
+    ],
+    "\"48700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69139.2",
+            "level2_salary": "82451.2",
+            "level3_salary": "95763.2",
+            "level4_salary": "109075.2",
+            "avg_salary": "95908.8"
+        }
+    ],
+    "\"48900\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76481.6",
+            "level2_salary": "98716.8",
+            "level3_salary": "120972.8",
+            "level4_salary": "143208.0",
+            "avg_salary": "121201.6"
+        }
+    ],
+    "\"49020\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "82305.6",
+            "level2_salary": "102731.2",
+            "level3_salary": "123136.0",
+            "level4_salary": "143561.6",
+            "avg_salary": "123344.0"
+        }
+    ],
+    "\"49180\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84739.2",
+            "level2_salary": "105913.6",
+            "level3_salary": "127067.2",
+            "level4_salary": "148241.6",
+            "avg_salary": "127275.2"
+        }
+    ],
+    "\"49340\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "95118.4",
+            "level2_salary": "116396.8",
+            "level3_salary": "137696.0",
+            "level4_salary": "158974.4",
+            "avg_salary": "137904.0"
+        }
+    ],
+    "\"49420\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76980.8",
+            "level2_salary": "100152.0",
+            "level3_salary": "123302.4",
+            "level4_salary": "146473.6",
+            "avg_salary": "123531.2"
+        }
+    ],
+    "\"49620\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74339.2",
+            "level2_salary": "92643.2",
+            "level3_salary": "110968.0",
+            "level4_salary": "129272.0",
+            "avg_salary": "111134.4"
+        }
+    ],
+    "\"49660\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67350.4",
+            "level2_salary": "87360.0",
+            "level3_salary": "107369.6",
+            "level4_salary": "127379.2",
+            "avg_salary": "107556.8"
+        }
+    ],
+    "\"49700\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "90646.4",
+            "level2_salary": "115960.0",
+            "level3_salary": "141294.4",
+            "level4_salary": "166608.0",
+            "avg_salary": "141544.0"
+        }
+    ],
+    "\"49740\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78894.4",
+            "level2_salary": "100256.0",
+            "level3_salary": "121638.4",
+            "level4_salary": "143000.0",
+            "avg_salary": "121846.4"
+        }
+    ],
+    "\"100001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62483.2",
+            "level2_salary": "85987.2",
+            "level3_salary": "109491.2",
+            "level4_salary": "132995.2",
+            "avg_salary": "109720.0"
+        }
+    ],
+    "\"100002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71947.2",
+            "level2_salary": "96907.2",
+            "level3_salary": "121888.0",
+            "level4_salary": "146848.0",
+            "avg_salary": "122137.6"
+        }
+    ],
+    "\"100003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69742.4",
+            "level2_salary": "91020.8",
+            "level3_salary": "112299.2",
+            "level4_salary": "133577.6",
+            "avg_salary": "112507.2"
+        }
+    ],
+    "\"100004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71718.4",
+            "level2_salary": "92768.0",
+            "level3_salary": "113796.8",
+            "level4_salary": "134846.4",
+            "avg_salary": "114025.6"
+        }
+    ],
+    "\"200006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92268.8",
+            "level2_salary": "108659.2",
+            "level3_salary": "125049.6",
+            "level4_salary": "141440.0",
+            "avg_salary": "125216.0"
+        }
+    ],
+    "\"400001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66206.4",
+            "level2_salary": "87193.6",
+            "level3_salary": "108180.8",
+            "level4_salary": "129168.0",
+            "avg_salary": "108388.8"
+        }
+    ],
+    "\"500001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "52644.8",
+            "level2_salary": "72592.0",
+            "level3_salary": "92539.2",
+            "level4_salary": "112486.4",
+            "avg_salary": "92747.2"
+        }
+    ],
+    "\"500002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "50086.4",
+            "level2_salary": "70678.4",
+            "level3_salary": "91249.6",
+            "level4_salary": "111841.6",
+            "avg_salary": "91457.6"
+        }
+    ],
+    "\"500003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "42556.8",
+            "level2_salary": "66934.4",
+            "level3_salary": "91332.8",
+            "level4_salary": "115710.4",
+            "avg_salary": "91561.6"
+        }
+    ],
+    "\"500004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "51688.0",
+            "level2_salary": "72363.2",
+            "level3_salary": "93059.2",
+            "level4_salary": "113734.4",
+            "avg_salary": "93267.2"
+        }
+    ],
+    "\"600003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75420.8",
+            "level2_salary": "104312.0",
+            "level3_salary": "133203.2",
+            "level4_salary": "162094.4",
+            "avg_salary": "133494.4"
+        }
+    ],
+    "\"600006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71177.6",
+            "level2_salary": "97988.8",
+            "level3_salary": "124800.0",
+            "level4_salary": "151611.2",
+            "avg_salary": "125070.4"
+        }
+    ],
+    "\"600007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78852.8",
+            "level2_salary": "105684.8",
+            "level3_salary": "132496.0",
+            "level4_salary": "159328.0",
+            "avg_salary": "132766.4"
+        }
+    ],
+    "\"800001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79268.8",
+            "level2_salary": "101212.8",
+            "level3_salary": "123136.0",
+            "level4_salary": "145080.0",
+            "avg_salary": "123364.8"
+        }
+    ],
+    "\"800002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85113.6",
+            "level2_salary": "109782.4",
+            "level3_salary": "134472.0",
+            "level4_salary": "159140.8",
+            "avg_salary": "134700.8"
+        }
+    ],
+    "\"800003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "93412.8",
+            "level2_salary": "116230.4",
+            "level3_salary": "139027.2",
+            "level4_salary": "161844.8",
+            "avg_salary": "139256.0"
+        }
+    ],
+    "\"900001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81556.8",
+            "level2_salary": "106204.8",
+            "level3_salary": "130852.8",
+            "level4_salary": "155500.8",
+            "avg_salary": "131102.4"
+        }
+    ],
+    "\"1000005\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89148.8",
+            "level2_salary": "107078.4",
+            "level3_salary": "125028.8",
+            "level4_salary": "142958.4",
+            "avg_salary": "125195.2"
+        }
+    ],
+    "\"1200003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89502.4",
+            "level2_salary": "122096.0",
+            "level3_salary": "154710.4",
+            "level4_salary": "187304.0",
+            "avg_salary": "155022.4"
+        }
+    ],
+    "\"1200006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78811.2",
+            "level2_salary": "112486.4",
+            "level3_salary": "146161.6",
+            "level4_salary": "179836.8",
+            "avg_salary": "146494.4"
+        }
+    ],
+    "\"1300001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73507.2",
+            "level2_salary": "93704.0",
+            "level3_salary": "113900.8",
+            "level4_salary": "134097.6",
+            "avg_salary": "114108.8"
+        }
+    ],
+    "\"1300002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84697.6",
+            "level2_salary": "100776.0",
+            "level3_salary": "116875.2",
+            "level4_salary": "132953.6",
+            "avg_salary": "117041.6"
+        }
+    ],
+    "\"1300003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62233.6",
+            "level2_salary": "83824.0",
+            "level3_salary": "105435.2",
+            "level4_salary": "127025.6",
+            "avg_salary": "105643.2"
+        }
+    ],
+    "\"1300004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68390.4",
+            "level2_salary": "90188.8",
+            "level3_salary": "111966.4",
+            "level4_salary": "133764.8",
+            "avg_salary": "112195.2"
+        }
+    ],
+    "\"1500001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65062.4",
+            "level2_salary": "96865.6",
+            "level3_salary": "128668.8",
+            "level4_salary": "160472.0",
+            "avg_salary": "129001.6"
+        }
+    ],
+    "\"1600006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61692.8",
+            "level2_salary": "85425.6",
+            "level3_salary": "109179.2",
+            "level4_salary": "132912.0",
+            "avg_salary": "109408.0"
+        }
+    ],
+    "\"1600007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64292.8",
+            "level2_salary": "84635.2",
+            "level3_salary": "104977.6",
+            "level4_salary": "125320.0",
+            "avg_salary": "105185.6"
+        }
+    ],
+    "\"1700001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71468.8",
+            "level2_salary": "90625.6",
+            "level3_salary": "109803.2",
+            "level4_salary": "128960.0",
+            "avg_salary": "109990.4"
+        }
+    ],
+    "\"1700002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67454.4",
+            "level2_salary": "85758.4",
+            "level3_salary": "104083.2",
+            "level4_salary": "122387.2",
+            "avg_salary": "104249.6"
+        }
+    ],
+    "\"1700003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65832.0",
+            "level2_salary": "85488.0",
+            "level3_salary": "105144.0",
+            "level4_salary": "124800.0",
+            "avg_salary": "105352.0"
+        }
+    ],
+    "\"1700004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76398.4",
+            "level2_salary": "99112.0",
+            "level3_salary": "121825.6",
+            "level4_salary": "144539.2",
+            "avg_salary": "122054.4"
+        }
+    ],
+    "\"1800001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69596.8",
+            "level2_salary": "85134.4",
+            "level3_salary": "100692.8",
+            "level4_salary": "116230.4",
+            "avg_salary": "100838.4"
+        }
+    ],
+    "\"1800002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65145.6",
+            "level2_salary": "80766.4",
+            "level3_salary": "96366.4",
+            "level4_salary": "111987.2",
+            "avg_salary": "96532.8"
+        }
+    ],
+    "\"1800003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61131.2",
+            "level2_salary": "78769.6",
+            "level3_salary": "96408.0",
+            "level4_salary": "114046.4",
+            "avg_salary": "96574.4"
+        }
+    ],
+    "\"1900001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73528.0",
+            "level2_salary": "93891.2",
+            "level3_salary": "114275.2",
+            "level4_salary": "134638.4",
+            "avg_salary": "114462.4"
+        }
+    ],
+    "\"1900002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66040.0",
+            "level2_salary": "88524.8",
+            "level3_salary": "111009.6",
+            "level4_salary": "133494.4",
+            "avg_salary": "111217.6"
+        }
+    ],
+    "\"1900003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65145.6",
+            "level2_salary": "87505.6",
+            "level3_salary": "109844.8",
+            "level4_salary": "132204.8",
+            "avg_salary": "110073.6"
+        }
+    ],
+    "\"1900004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66664.0",
+            "level2_salary": "85467.2",
+            "level3_salary": "104249.6",
+            "level4_salary": "123052.8",
+            "avg_salary": "104436.8"
+        }
+    ],
+    "\"2000006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69305.6",
+            "level2_salary": "90334.4",
+            "level3_salary": "111363.2",
+            "level4_salary": "132392.0",
+            "avg_salary": "111571.2"
+        }
+    ],
+    "\"2100001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "64459.2",
+            "level2_salary": "83241.6",
+            "level3_salary": "102003.2",
+            "level4_salary": "120785.6",
+            "avg_salary": "102190.4"
+        }
+    ],
+    "\"2100002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66892.8",
+            "level2_salary": "86340.8",
+            "level3_salary": "105768.0",
+            "level4_salary": "125216.0",
+            "avg_salary": "105976.0"
+        }
+    ],
+    "\"2100003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70699.2",
+            "level2_salary": "90438.4",
+            "level3_salary": "110177.6",
+            "level4_salary": "129916.8",
+            "avg_salary": "110385.6"
+        }
+    ],
+    "\"2100004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71115.2",
+            "level2_salary": "93059.2",
+            "level3_salary": "115003.2",
+            "level4_salary": "136947.2",
+            "avg_salary": "115232.0"
+        }
+    ],
+    "\"2200002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69513.6",
+            "level2_salary": "115731.2",
+            "level3_salary": "161928.0",
+            "level4_salary": "208145.6",
+            "avg_salary": "162406.4"
+        }
+    ],
+    "\"2200003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69160.0",
+            "level2_salary": "96844.8",
+            "level3_salary": "124550.4",
+            "level4_salary": "152235.2",
+            "avg_salary": "124820.8"
+        }
+    ],
+    "\"2200006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76107.2",
+            "level2_salary": "92310.4",
+            "level3_salary": "108492.8",
+            "level4_salary": "124696.0",
+            "avg_salary": "108659.2"
+        }
+    ],
+    "\"2300001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91457.6",
+            "level2_salary": "106828.8",
+            "level3_salary": "122200.0",
+            "level4_salary": "137571.2",
+            "avg_salary": "122345.6"
+        }
+    ],
+    "\"2300002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76960.0",
+            "level2_salary": "92164.8",
+            "level3_salary": "107348.8",
+            "level4_salary": "122553.6",
+            "avg_salary": "107515.2"
+        }
+    ],
+    "\"2400006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89544.0",
+            "level2_salary": "112444.8",
+            "level3_salary": "135324.8",
+            "level4_salary": "158225.6",
+            "avg_salary": "135574.4"
+        }
+    ],
+    "\"2500001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "100027.2",
+            "level2_salary": "123385.6",
+            "level3_salary": "146723.2",
+            "level4_salary": "170081.6",
+            "avg_salary": "146952.0"
+        }
+    ],
+    "\"2600001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66788.8",
+            "level2_salary": "87193.6",
+            "level3_salary": "107619.2",
+            "level4_salary": "128024.0",
+            "avg_salary": "107827.2"
+        }
+    ],
+    "\"2600002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71052.8",
+            "level2_salary": "90812.8",
+            "level3_salary": "110572.8",
+            "level4_salary": "130332.8",
+            "avg_salary": "110780.8"
+        }
+    ],
+    "\"2600003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67080.0",
+            "level2_salary": "84510.4",
+            "level3_salary": "101920.0",
+            "level4_salary": "119350.4",
+            "avg_salary": "102107.2"
+        }
+    ],
+    "\"2600004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76960.0",
+            "level2_salary": "94328.0",
+            "level3_salary": "111675.2",
+            "level4_salary": "129043.2",
+            "avg_salary": "111862.4"
+        }
+    ],
+    "\"2700001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71260.8",
+            "level2_salary": "88712.0",
+            "level3_salary": "106142.4",
+            "level4_salary": "123593.6",
+            "avg_salary": "106329.6"
+        }
+    ],
+    "\"2700002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67891.2",
+            "level2_salary": "89689.6",
+            "level3_salary": "111488.0",
+            "level4_salary": "133286.4",
+            "avg_salary": "111716.8"
+        }
+    ],
+    "\"2700003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65748.8",
+            "level2_salary": "81640.0",
+            "level3_salary": "97510.4",
+            "level4_salary": "113401.6",
+            "avg_salary": "97676.8"
+        }
+    ],
+    "\"2700004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80828.8",
+            "level2_salary": "95950.4",
+            "level3_salary": "111051.2",
+            "level4_salary": "126172.8",
+            "avg_salary": "111196.8"
+        }
+    ],
+    "\"2800005\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "54995.2",
+            "level2_salary": "71884.8",
+            "level3_salary": "88753.6",
+            "level4_salary": "105643.2",
+            "avg_salary": "88920.0"
+        }
+    ],
+    "\"2800006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "53248.0",
+            "level2_salary": "73632.0",
+            "level3_salary": "94016.0",
+            "level4_salary": "114400.0",
+            "avg_salary": "94224.0"
+        }
+    ],
+    "\"2800007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "42244.8",
+            "level2_salary": "62483.2",
+            "level3_salary": "82721.6",
+            "level4_salary": "102960.0",
+            "avg_salary": "82929.6"
+        }
+    ],
+    "\"2800008\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "51833.6",
+            "level2_salary": "71635.2",
+            "level3_salary": "91416.0",
+            "level4_salary": "111217.6",
+            "avg_salary": "91624.0"
+        }
+    ],
+    "\"2900001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "60964.8",
+            "level2_salary": "80849.6",
+            "level3_salary": "100734.4",
+            "level4_salary": "120619.2",
+            "avg_salary": "100942.4"
+        }
+    ],
+    "\"2900002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "60611.2",
+            "level2_salary": "78832.0",
+            "level3_salary": "97073.6",
+            "level4_salary": "115294.4",
+            "avg_salary": "97240.0"
+        }
+    ],
+    "\"2900003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "58676.8",
+            "level2_salary": "81931.2",
+            "level3_salary": "105185.6",
+            "level4_salary": "128440.0",
+            "avg_salary": "105414.4"
+        }
+    ],
+    "\"2900004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61568.0",
+            "level2_salary": "82596.8",
+            "level3_salary": "103604.8",
+            "level4_salary": "124633.6",
+            "avg_salary": "103812.8"
+        }
+    ],
+    "\"3000003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70075.2",
+            "level2_salary": "104395.2",
+            "level3_salary": "138715.2",
+            "level4_salary": "173035.2",
+            "avg_salary": "139048.0"
+        }
+    ],
+    "\"3000004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67121.6",
+            "level2_salary": "95534.4",
+            "level3_salary": "123947.2",
+            "level4_salary": "152360.0",
+            "avg_salary": "124238.4"
+        }
+    ],
+    "\"3000006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65894.4",
+            "level2_salary": "95035.2",
+            "level3_salary": "124155.2",
+            "level4_salary": "153296.0",
+            "avg_salary": "124446.4"
+        }
+    ],
+    "\"3100001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71115.2",
+            "level2_salary": "88982.4",
+            "level3_salary": "106849.6",
+            "level4_salary": "124716.8",
+            "avg_salary": "107016.0"
+        }
+    ],
+    "\"3100003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76897.6",
+            "level2_salary": "94224.0",
+            "level3_salary": "111571.2",
+            "level4_salary": "128897.6",
+            "avg_salary": "111737.6"
+        }
+    ],
+    "\"3100006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70761.6",
+            "level2_salary": "88587.2",
+            "level3_salary": "106412.8",
+            "level4_salary": "124238.4",
+            "avg_salary": "106600.0"
+        }
+    ],
+    "\"3200006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "59176.0",
+            "level2_salary": "94328.0",
+            "level3_salary": "129500.8",
+            "level4_salary": "164652.8",
+            "avg_salary": "129854.4"
+        }
+    ],
+    "\"3300001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "89460.8",
+            "level2_salary": "107848.0",
+            "level3_salary": "126235.2",
+            "level4_salary": "144622.4",
+            "avg_salary": "126422.4"
+        }
+    ],
+    "\"3300002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "86278.4",
+            "level2_salary": "106537.6",
+            "level3_salary": "126796.8",
+            "level4_salary": "147056.0",
+            "avg_salary": "127004.8"
+        }
+    ],
+    "\"3300006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77979.2",
+            "level2_salary": "92913.6",
+            "level3_salary": "107868.8",
+            "level4_salary": "122803.2",
+            "avg_salary": "108014.4"
+        }
+    ],
+    "\"3500006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "81952.0",
+            "level2_salary": "107556.8",
+            "level3_salary": "133140.8",
+            "level4_salary": "158745.6",
+            "avg_salary": "133411.2"
+        }
+    ],
+    "\"3500007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "53289.6",
+            "level2_salary": "78041.6",
+            "level3_salary": "102772.8",
+            "level4_salary": "127524.8",
+            "avg_salary": "103022.4"
+        }
+    ],
+    "\"3600001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73195.2",
+            "level2_salary": "92497.6",
+            "level3_salary": "111820.8",
+            "level4_salary": "131123.2",
+            "avg_salary": "112008.0"
+        }
+    ],
+    "\"3600004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75940.8",
+            "level2_salary": "96595.2",
+            "level3_salary": "117249.6",
+            "level4_salary": "137904.0",
+            "avg_salary": "117457.6"
+        }
+    ],
+    "\"3600006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71697.6",
+            "level2_salary": "91561.6",
+            "level3_salary": "111425.6",
+            "level4_salary": "131289.6",
+            "avg_salary": "111612.8"
+        }
+    ],
+    "\"3700001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77251.2",
+            "level2_salary": "93953.6",
+            "level3_salary": "110676.8",
+            "level4_salary": "127379.2",
+            "avg_salary": "110843.2"
+        }
+    ],
+    "\"3700002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72092.8",
+            "level2_salary": "93704.0",
+            "level3_salary": "115315.2",
+            "level4_salary": "136926.4",
+            "avg_salary": "115523.2"
+        }
+    ],
+    "\"3700003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70969.6",
+            "level2_salary": "92164.8",
+            "level3_salary": "113360.0",
+            "level4_salary": "134555.2",
+            "avg_salary": "113568.0"
+        }
+    ],
+    "\"3800006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "63169.6",
+            "level2_salary": "79476.8",
+            "level3_salary": "95784.0",
+            "level4_salary": "112091.2",
+            "avg_salary": "95950.4"
+        }
+    ],
+    "\"3800007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "67600.0",
+            "level2_salary": "86736.0",
+            "level3_salary": "105872.0",
+            "level4_salary": "125008.0",
+            "avg_salary": "106059.2"
+        }
+    ],
+    "\"3900001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75732.8",
+            "level2_salary": "93662.4",
+            "level3_salary": "111612.8",
+            "level4_salary": "129542.4",
+            "avg_salary": "111779.2"
+        }
+    ],
+    "\"3900002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68140.8",
+            "level2_salary": "87963.2",
+            "level3_salary": "107806.4",
+            "level4_salary": "127628.8",
+            "avg_salary": "107993.6"
+        }
+    ],
+    "\"3900003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72696.0",
+            "level2_salary": "92976.0",
+            "level3_salary": "113256.0",
+            "level4_salary": "133536.0",
+            "avg_salary": "113464.0"
+        }
+    ],
+    "\"3900004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "72363.2",
+            "level2_salary": "90355.2",
+            "level3_salary": "108326.4",
+            "level4_salary": "126318.4",
+            "avg_salary": "108513.6"
+        }
+    ],
+    "\"4000001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83907.2",
+            "level2_salary": "104499.2",
+            "level3_salary": "125070.4",
+            "level4_salary": "145662.4",
+            "avg_salary": "125278.4"
+        }
+    ],
+    "\"4000002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66414.4",
+            "level2_salary": "84136.0",
+            "level3_salary": "101878.4",
+            "level4_salary": "119600.0",
+            "avg_salary": "102044.8"
+        }
+    ],
+    "\"4000003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75004.8",
+            "level2_salary": "97510.4",
+            "level3_salary": "120016.0",
+            "level4_salary": "142521.6",
+            "avg_salary": "120244.8"
+        }
+    ],
+    "\"4000004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "70928.0",
+            "level2_salary": "90521.6",
+            "level3_salary": "110115.2",
+            "level4_salary": "129708.8",
+            "avg_salary": "110302.4"
+        }
+    ],
+    "\"4100006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "86923.2",
+            "level2_salary": "106267.2",
+            "level3_salary": "125611.2",
+            "level4_salary": "144955.2",
+            "avg_salary": "125798.4"
+        }
+    ],
+    "\"4100007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91166.4",
+            "level2_salary": "110988.8",
+            "level3_salary": "130811.2",
+            "level4_salary": "150633.6",
+            "avg_salary": "131019.2"
+        }
+    ],
+    "\"4100008\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "107161.6",
+            "level2_salary": "124675.2",
+            "level3_salary": "142168.0",
+            "level4_salary": "159681.6",
+            "avg_salary": "142355.2"
+        }
+    ],
+    "\"4200001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "73444.8",
+            "level2_salary": "91707.2",
+            "level3_salary": "109969.6",
+            "level4_salary": "128232.0",
+            "avg_salary": "110156.8"
+        }
+    ],
+    "\"4200002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66289.6",
+            "level2_salary": "89939.2",
+            "level3_salary": "113568.0",
+            "level4_salary": "137217.6",
+            "avg_salary": "113817.6"
+        }
+    ],
+    "\"4200003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74089.6",
+            "level2_salary": "91790.4",
+            "level3_salary": "109512.0",
+            "level4_salary": "127212.8",
+            "avg_salary": "109678.4"
+        }
+    ],
+    "\"4200004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "65041.6",
+            "level2_salary": "82326.4",
+            "level3_salary": "99590.4",
+            "level4_salary": "116875.2",
+            "avg_salary": "99777.6"
+        }
+    ],
+    "\"4500003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "61817.6",
+            "level2_salary": "87672.0",
+            "level3_salary": "113505.6",
+            "level4_salary": "139360.0",
+            "avg_salary": "113776.0"
+        }
+    ],
+    "\"4500005\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "59633.6",
+            "level2_salary": "83241.6",
+            "level3_salary": "106828.8",
+            "level4_salary": "130436.8",
+            "avg_salary": "107078.4"
+        }
+    ],
+    "\"4500007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74006.4",
+            "level2_salary": "106995.2",
+            "level3_salary": "139963.2",
+            "level4_salary": "172952.0",
+            "avg_salary": "140296.0"
+        }
+    ],
+    "\"4600002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68952.0",
+            "level2_salary": "79435.2",
+            "level3_salary": "89918.4",
+            "level4_salary": "100401.6",
+            "avg_salary": "90022.4"
+        }
+    ],
+    "\"4600003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71323.2",
+            "level2_salary": "82888.0",
+            "level3_salary": "94432.0",
+            "level4_salary": "105996.8",
+            "avg_salary": "94556.8"
+        }
+    ],
+    "\"4700001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68411.2",
+            "level2_salary": "88108.8",
+            "level3_salary": "107806.4",
+            "level4_salary": "127504.0",
+            "avg_salary": "108014.4"
+        }
+    ],
+    "\"4700002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "78436.8",
+            "level2_salary": "97656.0",
+            "level3_salary": "116896.0",
+            "level4_salary": "136115.2",
+            "avg_salary": "117083.2"
+        }
+    ],
+    "\"4700003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "74464.0",
+            "level2_salary": "94660.8",
+            "level3_salary": "114878.4",
+            "level4_salary": "135075.2",
+            "avg_salary": "115065.6"
+        }
+    ],
+    "\"4700004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "66144.0",
+            "level2_salary": "87401.6",
+            "level3_salary": "108680.0",
+            "level4_salary": "129937.6",
+            "avg_salary": "108888.0"
+        }
+    ],
+    "\"4800001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "88545.6",
+            "level2_salary": "116708.8",
+            "level3_salary": "144892.8",
+            "level4_salary": "173056.0",
+            "avg_salary": "145163.2"
+        }
+    ],
+    "\"4800002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80828.8",
+            "level2_salary": "102772.8",
+            "level3_salary": "124737.6",
+            "level4_salary": "146681.6",
+            "avg_salary": "124966.4"
+        }
+    ],
+    "\"4800003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "82160.0",
+            "level2_salary": "106392.0",
+            "level3_salary": "130644.8",
+            "level4_salary": "154876.8",
+            "avg_salary": "130873.6"
+        }
+    ],
+    "\"4800004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76689.6",
+            "level2_salary": "99278.4",
+            "level3_salary": "121888.0",
+            "level4_salary": "144476.8",
+            "avg_salary": "122116.8"
+        }
+    ],
+    "\"4800005\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "84593.6",
+            "level2_salary": "106038.4",
+            "level3_salary": "127462.4",
+            "level4_salary": "148907.2",
+            "avg_salary": "127691.2"
+        }
+    ],
+    "\"4800006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "79705.6",
+            "level2_salary": "101129.6",
+            "level3_salary": "122532.8",
+            "level4_salary": "143956.8",
+            "avg_salary": "122761.6"
+        }
+    ],
+    "\"4900010\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "76585.6",
+            "level2_salary": "103417.6",
+            "level3_salary": "130228.8",
+            "level4_salary": "157060.8",
+            "avg_salary": "130499.2"
+        }
+    ],
+    "\"4900011\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "62670.4",
+            "level2_salary": "83470.4",
+            "level3_salary": "104249.6",
+            "level4_salary": "125049.6",
+            "avg_salary": "104457.6"
+        }
+    ],
+    "\"5000001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "85529.6",
+            "level2_salary": "114566.4",
+            "level3_salary": "143582.4",
+            "level4_salary": "172619.2",
+            "avg_salary": "143873.6"
+        }
+    ],
+    "\"5000002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77646.4",
+            "level2_salary": "104665.6",
+            "level3_salary": "131664.0",
+            "level4_salary": "158683.2",
+            "avg_salary": "131955.2"
+        }
+    ],
+    "\"5100001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "75524.8",
+            "level2_salary": "96532.8",
+            "level3_salary": "117520.0",
+            "level4_salary": "138528.0",
+            "avg_salary": "117748.8"
+        }
+    ],
+    "\"5100002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83512.0",
+            "level2_salary": "107099.2",
+            "level3_salary": "130686.4",
+            "level4_salary": "154273.6",
+            "avg_salary": "130936.0"
+        }
+    ],
+    "\"5100003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "69950.4",
+            "level2_salary": "89606.4",
+            "level3_salary": "109262.4",
+            "level4_salary": "128918.4",
+            "avg_salary": "109449.6"
+        }
+    ],
+    "\"5100004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "83824.0",
+            "level2_salary": "107203.2",
+            "level3_salary": "130582.4",
+            "level4_salary": "153961.6",
+            "avg_salary": "130811.2"
+        }
+    ],
+    "\"5300006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80849.6",
+            "level2_salary": "109179.2",
+            "level3_salary": "137529.6",
+            "level4_salary": "165859.2",
+            "avg_salary": "137800.0"
+        }
+    ],
+    "\"5300007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "92414.4",
+            "level2_salary": "117395.2",
+            "level3_salary": "142396.8",
+            "level4_salary": "167377.6",
+            "avg_salary": "142625.6"
+        }
+    ],
+    "\"5400001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71302.4",
+            "level2_salary": "89273.6",
+            "level3_salary": "107244.8",
+            "level4_salary": "125216.0",
+            "avg_salary": "107432.0"
+        }
+    ],
+    "\"5400002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "77230.4",
+            "level2_salary": "95014.4",
+            "level3_salary": "112798.4",
+            "level4_salary": "130582.4",
+            "avg_salary": "112964.8"
+        }
+    ],
+    "\"5500001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "57324.8",
+            "level2_salary": "78582.4",
+            "level3_salary": "99819.2",
+            "level4_salary": "121076.8",
+            "avg_salary": "100048.0"
+        }
+    ],
+    "\"5500002\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "71926.4",
+            "level2_salary": "89169.6",
+            "level3_salary": "106412.8",
+            "level4_salary": "123656.0",
+            "avg_salary": "106579.2"
+        }
+    ],
+    "\"5500003\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68910.4",
+            "level2_salary": "85633.6",
+            "level3_salary": "102377.6",
+            "level4_salary": "119100.8",
+            "avg_salary": "102523.2"
+        }
+    ],
+    "\"5500004\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "60195.2",
+            "level2_salary": "81057.6",
+            "level3_salary": "101920.0",
+            "level4_salary": "122782.4",
+            "avg_salary": "102128.0"
+        }
+    ],
+    "\"5600006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "68057.6",
+            "level2_salary": "91873.6",
+            "level3_salary": "115689.6",
+            "level4_salary": "139505.6",
+            "avg_salary": "115918.4"
+        }
+    ],
+    "\"5600007\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "80579.2",
+            "level2_salary": "106870.4",
+            "level3_salary": "133182.4",
+            "level4_salary": "159473.6",
+            "avg_salary": "133432.0"
+        }
+    ],
+    "\"6600001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "88483.2",
+            "level2_salary": "116376.0",
+            "level3_salary": "144289.6",
+            "level4_salary": "172182.4",
+            "avg_salary": "144560.0"
+        }
+    ],
+    "\"7200006\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "38771.2",
+            "level2_salary": "53497.6",
+            "level3_salary": "68244.8",
+            "level4_salary": "82971.2",
+            "avg_salary": "68390.4"
+        }
+    ],
+    "\"7800001\"": [
+        {
+            "socCode": "\"15-1252\"",
+            "level1_salary": "91270.4",
+            "level2_salary": "115294.4",
+            "level3_salary": "139297.6",
+            "level4_salary": "163321.6",
+            "avg_salary": "139547.2"
+        }
+    ]
+}
