@@ -11,11 +11,11 @@ def extractGeographyInfo(file_geography):
         geography_data = geo_file.readlines()
         for line in geography_data[:]:
             values = line.strip().split(',')
-            area_code = values[0]
-            area_name = values[1]
-            state_code= values[-3]
-            state_name = values[-2]
-            county_name= values[-1]
+            area_code =   values[0][1:-1]
+            area_name =   values[1][1:-1]
+            state_code=  values[-3][1:-1]
+            state_name = values[-2][1:-1]
+            county_name= values[-1][1:-1]
             if(len(values)>5):
                 # state_code != values[2]
                 area_name = area_name+"," + ",".join(values[2:-3]) 
@@ -23,6 +23,8 @@ def extractGeographyInfo(file_geography):
             if(area_code.__contains__("Area")):
                 continue
             else:
+                
+                # print(area_code, area_name, state_code, state_name, county_name)
                 if(db_area.get(state_name) is None):
                     db_area[state_name] = {"stateCode":{}, "blsCodesAndCounties":[]}
                     db_area[state_name]["stateCode"]= state_code
@@ -54,13 +56,13 @@ def extractWageInfo(file_wages, expected_occupation_code):
         for line in wage_data[:]:
             values = line.strip().split(',')
 
-            area_code = values[0]
-            occupation_code = values[1]
-            wage_level_1 = values[3]
-            wage_level_2 = values[4]
-            wage_level_3 = values[5]
-            wage_level_4 = values[6]
-            wage_level_avg = values[7]
+            area_code =       values[0][1:-1]
+            occupation_code = values[1][1:-1]
+            wage_level_1 =    values[3][1:-1]
+            wage_level_2 =    values[4][1:-1]
+            wage_level_3 =    values[5][1:-1]
+            wage_level_4 =    values[6][1:-1]
+            wage_level_avg =  values[7][1:-1]
                             
             if(area_code.__contains__("Area")):
                 continue
@@ -75,11 +77,11 @@ def extractWageInfo(file_wages, expected_occupation_code):
                                             # "wageLevel3":wage_level_3,
                                             # "wageLevel4":wage_level_4,
                                             # "wageLevelAvg":wage_level_avg,
-                                            "level1_salary": str(round(float(wage_level_1[1:-1])*hours_in_year,2)) if wage_level_1 !='' else '',
-                                            "level2_salary": str(round(float(wage_level_2[1:-1])*hours_in_year,2)) if wage_level_2 !='' else '',
-                                            "level3_salary": str(round(float(wage_level_3[1:-1])*hours_in_year,2)) if wage_level_3 !='' else '',
-                                            "level4_salary": str(round(float(wage_level_4[1:-1])*hours_in_year,2)) if wage_level_4 !='' else '',
-                                            "avg_salary": str(round(float(wage_level_avg[1:-1])*hours_in_year,2)) if wage_level_avg !='' else ''
+                                            "level1_salary": str(round(float(wage_level_1)*hours_in_year,2)) if wage_level_1 !='' else '',
+                                            "level2_salary": str(round(float(wage_level_2)*hours_in_year,2)) if wage_level_2 !='' else '',
+                                            "level3_salary": str(round(float(wage_level_3)*hours_in_year,2)) if wage_level_3 !='' else '',
+                                            "level4_salary": str(round(float(wage_level_4)*hours_in_year,2)) if wage_level_4 !='' else '',
+                                            "avg_salary": str(round(float(wage_level_avg)*hours_in_year,2)) if wage_level_avg !='' else ''
                                             })
 
     #save db_wage to a file
