@@ -1,0 +1,25 @@
+{
+    "Delaware": {
+        "statecode": "DE",
+        "blsareacodes": [
+            {
+                "1000005": {
+                    "blsareaName": "Sussex Delaware Non metropolitan area",
+                    "counties": [
+                        "county1",
+                        "county20"
+                    ]
+                }
+            },
+            {
+                "323232": {
+                    "blsareaName": "del metro area",
+                    "counties": [
+                        "county3",
+                        "county4"
+                    ]
+                }
+            }
+        ]
+    }
+}
