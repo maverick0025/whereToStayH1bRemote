@@ -62,11 +62,12 @@ def __main__():
     '''    
     
     salary = 100000
-    level = "level2" #options can be level1, level2, level3, avg
+    level = "level3" #options can be level1, level2, level3, avg
     statesAndCounties={}    
     states = db_area.keys()
     for state in states:
         counties = fetch_counties_by_wage(state, salary, level)
+        # if(len(counties)>0 and state == "Colorado"):
         if(len(counties)>0):
             state_counties = list(map(lambda x: x.split(" County")[0] , counties))
             statesAndCounties[db_area[state]["stateCode"]]=state_counties
