@@ -71,16 +71,7 @@ def __main__():
         if(len(counties)>0):
             state_counties = list(map(lambda x: x.split(" County")[0] , counties))
             statesAndCounties[db_area[state]["stateCode"]]=state_counties
-    
-    # print("Selected States and Counties:")
-    # print("-----------------------------")
-    # for(state, counties) in statesAndCounties.items():
-    #     print(state)
-    #     print(db_area[state]["stateCode"])
-    #     print(counties)
-    #     print("-----------------------------")
-        # print(f"{state}: {', '.join(counties)}")
-    
+        
     visualize(statesAndCounties)
 
 __main__()
